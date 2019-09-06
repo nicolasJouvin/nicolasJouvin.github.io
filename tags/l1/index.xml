@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L1 | Nicolas Jouvin</title>
+    <link>/tags/l1/</link>
+      <atom:link href="/tags/l1/index.xml" rel="self" type="application/rss+xml" />
+    <description>L1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>L1</title>
+      <link>/tags/l1/</link>
+    </image>
+    
+    <item>
+      <title>Technique de calcul</title>
+      <link>/project/tdc/tdc/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/tdc/tdc/</guid>
+      <description>
+
+&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+
+&lt;p&gt;Chargé de cours : M. Bachir &lt;br /&gt;
+Horaires : Vendredi de 13h30 à 16h&lt;/p&gt;
+
+&lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Synthèse de cours Terminales S/ES + exercices corrigés : &lt;a href=&#34;http://www.panamaths.net/&#34; target=&#34;_blank&#34;&gt;Panamaths&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Synthèse de cours niveau licence + exercices corrigés : &lt;a href=&#34;http://exo7.emath.fr/&#34; target=&#34;_blank&#34;&gt;Exo7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

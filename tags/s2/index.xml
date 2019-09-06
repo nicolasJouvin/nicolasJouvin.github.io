@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S2 | Nicolas Jouvin</title>
+    <link>/tags/s2/</link>
+      <atom:link href="/tags/s2/index.xml" rel="self" type="application/rss+xml" />
+    <description>S2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S2</title>
+      <link>/tags/s2/</link>
+    </image>
+    
+    <item>
+      <title>Analyse des données</title>
+      <link>/project/add/add/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/add/add/</guid>
+      <description>
+
+&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+
+&lt;p&gt;Chargé de cours : &lt;a href=&#34;https://sites.google.com/view/madalina-olteanu/home&#34; target=&#34;_blank&#34;&gt;Madalina Olteanu&lt;/a&gt; &lt;br /&gt;
+Horaires : TBA&lt;/p&gt;
+
+&lt;h1 id=&#34;programmation-en-r&#34;&gt;Programmation en R&lt;/h1&gt;
+
+&lt;h4 id=&#34;débutant&#34;&gt;Débutant :&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Installation de &lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; et &lt;a href=&#34;https://www.rstudio.com/&#34; target=&#34;_blank&#34;&gt;Rstudio&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Le forum d’entraide &lt;a href=&#34;https://stackoverflow.com/&#34; target=&#34;_blank&#34;&gt;StackOverflow&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;plus-avancé&#34;&gt;Plus avancé :&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Les &lt;a href=&#34;https://rmarkdown.rstudio.com/lesson-1.html&#34; target=&#34;_blank&#34;&gt;Rmarkdowns&lt;/a&gt; pour la production de rapports et la reproductibilité des résultats.&lt;/li&gt;
+&lt;li&gt;Manipulation des données et autres spécifités de R à découvrir dans le &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;Tidyverse&lt;/a&gt;. En particulier les packages &lt;a href=&#34;https://dplyr.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;dplyr&lt;/a&gt; pour la manipulation de dataframe, et &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;ggplot2&lt;/a&gt; pour la visualisation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;LDA/QDA&lt;/strong&gt; La page explicative de scikit-learn montre assez succintement le modèle probabiliste et la forme de la frontière de décision. A lire à partir de la section 1.2.2&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Algorithme EM pour les mélanges gaussiens&lt;/strong&gt; Les slides de &lt;a href=&#34;http://imagine.enpc.fr/~obozinsg/&#34; target=&#34;_blank&#34;&gt;Guillaume Obozinski&lt;/a&gt; pour son cours au MVA sont disponibles &lt;a href=&#34;https://www.di.ens.fr/%7Eslacoste/teaching/MVA_GM/fall2015/cours_MVA_EM.pdf&#34; target=&#34;_blank&#34;&gt;ici&lt;/a&gt;. Elles contiennent le Kmeans, les mélanges gaussiens et l’inférence avec l’EM avec toutes les définitions et calculs analytiques.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Regression Logistique&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Les &lt;a href=&#34;https://www.di.ens.fr/%7Eslacoste/teaching/MVA_GM/fall2015/cours_MVA_2015_regressions_hdt.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt; de Guillaume Obozinski, la régression linéaire n’est pas au programme mais ça peut toujours être intéressant pour vous.&lt;/li&gt;
+&lt;li&gt;Il y a également les notes de lectures d’étudiant.e.s ayant suivis ce cours &lt;a href=&#34;https://www.di.ens.fr/%7Efbach/courses/fall2013/lecture2.pdf&#34; target=&#34;_blank&#34;&gt;ici&lt;/a&gt;. La régression logistique se trouve page 2-4 et 2-5.&lt;/li&gt;
+&lt;li&gt;Et bien sûr je suis joignable par mail pour toute question. Il y a également Wikipédia, Statexchange, et/ou n’importe quel moteur de recherche.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

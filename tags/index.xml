@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Nicolas Jouvin</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Analyse des données</title>
+      <link>/tags/analyse-des-donnees/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/analyse-des-donnees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M1</title>
+      <link>/tags/m1/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/m1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S2</title>
+      <link>/tags/s2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/s2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse</title>
+      <link>/tags/analyse/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/analyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Count data</title>
+      <link>/tags/count-data/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/count-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimension reduction</title>
+      <link>/tags/dimension-reduction/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/dimension-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L1</title>
+      <link>/tags/l1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/l1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture models</title>
+      <link>/tags/mixture-models/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/mixture-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S1</title>
+      <link>/tags/s1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/s1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic modeling</title>
+      <link>/tags/topic-modeling/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/topic-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational inference</title>
+      <link>/tags/variational-inference/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/variational-inference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

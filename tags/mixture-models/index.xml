@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mixture models | Nicolas Jouvin</title>
+    <link>/tags/mixture-models/</link>
+      <atom:link href="/tags/mixture-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mixture models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Mixture models</title>
+      <link>/tags/mixture-models/</link>
+    </image>
+    
+    <item>
+      <title>Clustering of count data through a mixture of multinomial PCA</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;p&gt;The R package is currently under devellopment and only available at my &lt;a href=&#34;https://github.com/nicolasJouvin/MMPCA&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt;, but it should appear on CRAN soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
