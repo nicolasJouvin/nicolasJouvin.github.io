@@ -13,10 +13,28 @@
     </image>
     
     <item>
-      <title>Technique de calcul</title>
-      <link>/project/tdc/tdc/</link>
+      <title>Python</title>
+      <link>/project/python/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/tdc/tdc/</guid>
+      <guid>/project/python/</guid>
+      <description>
+
+&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+
+&lt;p&gt;Chargé de cours : Laurent Boyer &lt;br /&gt;
+Horaires : Mercredi de 8h à 10h.&lt;/p&gt;
+
+&lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
+
+&lt;p&gt;En construction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technique de calcul</title>
+      <link>/project/tdc/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/tdc/</guid>
       <description>
 
 &lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;

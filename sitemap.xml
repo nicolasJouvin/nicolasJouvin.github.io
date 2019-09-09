@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>/project/add/add/</loc>
+    <loc>/project/add/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,6 +113,16 @@
   </url>
   
   <url>
+    <loc>/tags/l3/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/miage/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/mixture-models/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -133,12 +143,17 @@
   </url>
   
   <url>
+    <loc>/project/python/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/s1/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/tdc/tdc/</loc>
+    <loc>/project/tdc/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   

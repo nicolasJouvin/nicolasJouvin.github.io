@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L3 | Nicolas Jouvin</title>
+    <link>/tags/l3/</link>
+      <atom:link href="/tags/l3/index.xml" rel="self" type="application/rss+xml" />
+    <description>L3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>L3</title>
+      <link>/tags/l3/</link>
+    </image>
+    
+    <item>
+      <title>Python</title>
+      <link>/project/python/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/python/</guid>
+      <description>
+
+&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+
+&lt;p&gt;Chargé de cours : Laurent Boyer &lt;br /&gt;
+Horaires : Mercredi de 8h à 10h.&lt;/p&gt;
+
+&lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
+
+&lt;p&gt;En construction&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
