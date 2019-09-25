@@ -26,7 +26,21 @@ Horaires : Mercredi de 8h à 10h.&lt;/p&gt;
 
 &lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
 
-&lt;p&gt;En construction&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;La &lt;a href=&#34;https://docs.python.org/fr/3.5/tutorial/introduction.html#&#34; target=&#34;_blank&#34;&gt;documentation python officielle&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://ouralou.fr/&#34; target=&#34;_blank&#34;&gt;Le site ouralou&lt;/a&gt; : Exercices interactifs pour apprendre les bases de Python&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Les EPI (à gérer avec celui qui y a accès).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;séances&#34;&gt;Séances&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;1ère séance :&lt;/strong&gt; Télécharger &lt;a href=&#34;https://www.anaconda.com/distribution/&#34; target=&#34;_blank&#34;&gt;Anaconda&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2ème séance :&lt;/strong&gt; Finir la &lt;a href=&#34;/docs/PythonL3/2019S5TD1.pdf&#34;&gt;feuille 1&lt;/a&gt;. Voici &lt;em&gt;une&lt;/em&gt; &lt;a href=&#34;/docs/PythonL3/Corrections/TP1_correction.zip&#34;&gt;correction&lt;/a&gt; possible.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
