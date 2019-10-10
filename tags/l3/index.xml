@@ -24,14 +24,20 @@
 &lt;p&gt;Chargé de cours : Laurent Boyer &lt;br /&gt;
 Horaires : Mercredi de 8h à 10h.&lt;/p&gt;
 
+&lt;h1 id=&#34;annonces&#34;&gt;Annonces&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1er contrôle continu (1H) lors de la 5ème séance&lt;/strong&gt;. Programme du contrôle : révisions et matplotlib. Cf. annonce sur EPI de Laurent Boyer et la fin des slides du cours 4.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Les EPI (m&amp;rsquo;envoyer un mail pour avoir accès à la clef d&amp;rsquo;inscription).&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;La &lt;a href=&#34;https://docs.python.org/fr/3.5/tutorial/introduction.html#&#34; target=&#34;_blank&#34;&gt;documentation python officielle&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://ouralou.fr/&#34; target=&#34;_blank&#34;&gt;Le site ouralou&lt;/a&gt; : Exercices interactifs pour apprendre les bases de Python&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Les EPI (à gérer avec celui qui y a accès).&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;séances&#34;&gt;Séances&lt;/h1&gt;
@@ -40,6 +46,23 @@ Horaires : Mercredi de 8h à 10h.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;1ère séance :&lt;/strong&gt; Télécharger &lt;a href=&#34;https://www.anaconda.com/distribution/&#34; target=&#34;_blank&#34;&gt;Anaconda&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;2ème séance :&lt;/strong&gt; Finir la &lt;a href=&#34;/docs/PythonL3/2019S5TD1.pdf&#34;&gt;feuille 1&lt;/a&gt;. Voici &lt;em&gt;une&lt;/em&gt; &lt;a href=&#34;/docs/PythonL3/Corrections/TP1_correction.zip&#34;&gt;correction&lt;/a&gt; possible.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;3ème séance :&lt;/strong&gt; Introduction à Matplotlib (surtout son sous-module pyplot) &lt;strong&gt;Corection disponible sur l&amp;rsquo;EPI&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;4ème séance :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Exercice 3 du TP2 sur les chaînes de caratères.&lt;/li&gt;
+&lt;li&gt;Exercice sur Numpy. Réviser les slides avant.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;5ème séance :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CC1 (1H, cf. annonce).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
