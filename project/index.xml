@@ -108,7 +108,7 @@ Horaires : Mercredi de 8h à 10h.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Exercice 3 du TP2 sur les chaînes de caratères.&lt;/li&gt;
 &lt;li&gt;Exercice sur Numpy. Réviser les slides avant.&lt;/li&gt;
-&lt;li&gt;Calcul du volume de l&amp;rsquo;hypersphere en dimension d : &lt;a href=&#34;/docs/PythonL3/Corrections/TP3/hypersphere/enonce_hypersphere.pdf&#34;&gt;énoncé&lt;/a&gt;
+&lt;li&gt;Calcul du volume de l&amp;rsquo;hypersphere en dimension d : &lt;a href=&#34;/docs/PythonL3/Corrections/TP3/hypersphere/enonce_hypersphere.pdf&#34;&gt;énoncé&lt;/a&gt; / &lt;a href=&#34;/docs/PythonL3/Corrections/TP3/hypersphere/correction_hypersphere.zip&#34;&gt;corrigé&lt;/a&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
@@ -116,7 +116,14 @@ Horaires : Mercredi de 8h à 10h.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;5ème séance :&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;CC1 (1H, cf. annonce).&lt;/li&gt;
+&lt;li&gt;CC1 (1H, cf. annonce).
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;6ème séance :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ensemble de Mandelbrot : &lt;a href=&#34;https://fr.wikipedia.org/wiki/Ensemble_de_Mandelbrot&#34; target=&#34;_blank&#34;&gt;Wikipédia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -132,7 +139,9 @@ Horaires : Mercredi de 8h à 10h.&lt;/p&gt;
 &lt;h1 id=&#34;annonce&#34;&gt;Annonce&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;1er contrôle continu (20-30min) au début de la 4ème séance&lt;/strong&gt;. Programme : &lt;strong&gt;Tout&lt;/strong&gt; le cours (définitions, théorèmes et démonstrations) + exercices jusqu&amp;rsquo;à la séance 3.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;1er contrôle continu (20-30min) au début de la 4ème séance&lt;/strong&gt;. Programme : &lt;strong&gt;Tout&lt;/strong&gt; le cours (définitions, théorèmes et démonstrations) + exercices jusqu&amp;rsquo;à la séance 3.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2ème contrôle continu (20-30min) au début de la 7ème séance&lt;/strong&gt;. Programme : &lt;strong&gt;Tout&lt;/strong&gt; le cours (définitions, théorèmes et démonstrations) + exercices jusqu&amp;rsquo;à la séance 6.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
@@ -146,6 +155,12 @@ Horaires : Vendredi de 13h30 à 16h&lt;/p&gt;
 &lt;li&gt;Synthèse de cours Terminales S/ES + exercices corrigés : &lt;a href=&#34;http://www.panamaths.net/&#34; target=&#34;_blank&#34;&gt;Panamaths&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Synthèse de cours niveau licence + exercices corrigés : &lt;a href=&#34;http://exo7.emath.fr/&#34; target=&#34;_blank&#34;&gt;Exo7&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.normalesup.org/~vripoll/MAT1013_Rappels_trigo.pdf&#34; target=&#34;_blank&#34;&gt;Sur la trigonométrie&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;exercices&#34;&gt;Exercices&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Une fiche supplémentaire d&amp;rsquo;exercices sur la dérivation est disponible &lt;a href=&#34;/docs/TDC/Feuillerevisionderivees_xavierbacon.pdf&#34;&gt;ici&lt;/a&gt; (document rédigé et communiqué par &lt;a href=&#34;http://samm.univ-paris1.fr/-Xavier-Bacon-162-&#34; target=&#34;_blank&#34;&gt;M. Xavier Bacon&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
