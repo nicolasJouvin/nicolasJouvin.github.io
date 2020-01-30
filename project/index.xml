@@ -43,12 +43,12 @@ Horaires : TBA&lt;/p&gt;
 &lt;h1 id=&#34;enoncés-de-td-et-corrigés&#34;&gt;Enoncés de TD et corrigés&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;TD1 : &lt;a href=&#34;/docs/ADD/TD1/TD1.pdf&#34;&gt;Enoncé&lt;/a&gt; et &lt;a href=&#34;/docs/ADD/TD1/TD1_correction.zip&#34;&gt;Corrigé&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;TD1 : &lt;a href=&#34;/docs/ADD/TD1/TD1.pdf&#34;&gt;Enoncé&lt;/a&gt; et &lt;a href=&#34;/docs/ADD/TD1/TD1_correction.zip&#34;&gt;Corrigé&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
+&lt;li&gt;&lt;p&gt;TD2 : &lt;a href=&#34;/docs/ADD/TD2/creation_donnees.R&#34;&gt;Script&lt;/a&gt; pour créer les données.&lt;/p&gt;
 
-&lt;ul&gt;
+&lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;LDA/QDA&lt;/strong&gt; La page explicative de scikit-learn montre assez succintement le modèle probabiliste et la forme de la frontière de décision. A lire à partir de la section 1.2.2&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Algorithme EM pour les mélanges gaussiens&lt;/strong&gt; Les slides de &lt;a href=&#34;http://imagine.enpc.fr/~obozinsg/&#34; target=&#34;_blank&#34;&gt;Guillaume Obozinski&lt;/a&gt; pour son cours au MVA sont disponibles &lt;a href=&#34;https://www.di.ens.fr/%7Eslacoste/teaching/MVA_GM/fall2015/cours_MVA_EM.pdf&#34; target=&#34;_blank&#34;&gt;ici&lt;/a&gt;. Elles contiennent le Kmeans, les mélanges gaussiens et l’inférence avec l’EM avec toutes les définitions et calculs analytiques.&lt;/p&gt;&lt;/li&gt;
