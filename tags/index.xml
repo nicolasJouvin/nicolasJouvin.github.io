@@ -5,12 +5,60 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Block modeling</title>
+      <link>/tags/block-modeling/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/block-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete latent variable models</title>
+      <link>/tags/discrete-latent-variable-models/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/discrete-latent-variable-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical clustering</title>
+      <link>/tags/hierarchical-clustering/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/hierarchical-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated classification likelihood</title>
+      <link>/tags/integrated-classification-likelihood/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/integrated-classification-likelihood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture models</title>
+      <link>/tags/mixture-models/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/mixture-models/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyse des données</title>
@@ -41,14 +89,6 @@
       <link>/tags/analyse/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/tags/analyse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering</title>
-      <link>/tags/clustering/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/clustering/</guid>
       <description></description>
     </item>
     
@@ -89,14 +129,6 @@
       <link>/tags/miage/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/tags/miage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixture models</title>
-      <link>/tags/mixture-models/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/mixture-models/</guid>
       <description></description>
     </item>
     

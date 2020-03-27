@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etienne Côme | Nicolas Jouvin</title>
+    <link>/authors/etienne-come/</link>
+      <atom:link href="/authors/etienne-come/index.xml" rel="self" type="application/rss+xml" />
+    <description>Etienne Côme</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Etienne Côme</title>
+      <link>/authors/etienne-come/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical clustering with discrete latent variable models and the integrated classification likelihood</title>
+      <link>/publication/greed/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/greed/</guid>
+      <description>&lt;p&gt;The &lt;em&gt;Greed&lt;/em&gt; R package was develloped by &lt;a href=&#34;https://www.comeetie.fr/&#34; target=&#34;_blank&#34;&gt;Etienne Côme&lt;/a&gt; and is available at this &lt;a href=&#34;https://github.com/comeetie/greed&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

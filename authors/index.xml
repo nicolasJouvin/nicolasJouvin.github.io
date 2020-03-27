@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,10 +15,34 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Im am a third year PhD student at Laboratoire SAMM (Statistiques, Analyse, and Modélisation Multidisciplinaire) under the supervision of &lt;a href=&#34;http://helios.mi.parisdescartes.fr/~platouch/&#34; target=&#34;_blank&#34;&gt;Pr. Pierre Latouche&lt;/a&gt;, &lt;a href=&#34;https://math.unice.fr/~cbouveyr/&#34; target=&#34;_blank&#34;&gt;Pr. Charles Bouveyron&lt;/a&gt; and &lt;a href=&#34;https://curie.fr/personne/alain-livartowski&#34; target=&#34;_blank&#34;&gt;Dr. Alain Livartowski&lt;/a&gt;. My main area of research is the modelisation of heterogeneous data, specifically images with text associated to them. I’m particularly interested in medical application and my PhD thesis is done in collaboration with &lt;a href=&#34;https://curie.fr/&#34; target=&#34;_blank&#34;&gt;Institut Curie&lt;/a&gt; where I work on the modelisation of anathomo-pathological images along with their medical reports.&lt;/p&gt;
+      <description>&lt;p&gt;I am a third year PhD student at Laboratoire SAMM (Statistiques, Analyse, and Modélisation Multidisciplinaire) under the supervision of &lt;a href=&#34;http://helios.mi.parisdescartes.fr/~platouch/&#34; target=&#34;_blank&#34;&gt;Pr. Pierre Latouche&lt;/a&gt;, &lt;a href=&#34;https://math.unice.fr/~cbouveyr/&#34; target=&#34;_blank&#34;&gt;Pr. Charles Bouveyron&lt;/a&gt; and &lt;a href=&#34;https://curie.fr/personne/alain-livartowski&#34; target=&#34;_blank&#34;&gt;Dr. Alain Livartowski&lt;/a&gt;. My main area of research is the modelisation of heterogeneous data, specifically images with text associated to them. I’m particularly interested in medical application and my PhD thesis is done in collaboration with &lt;a href=&#34;https://curie.fr/&#34; target=&#34;_blank&#34;&gt;Institut Curie&lt;/a&gt; where I work on the modelisation of anathomo-pathological images along with their medical reports.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Charles Bouveyron</title>
+      <link>/authors/charles-bouveyron/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/charles-bouveyron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etienne Côme</title>
+      <link>/authors/etienne-come/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/etienne-come/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pierre Latouche</title>
+      <link>/authors/pierre-latouche/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/pierre-latouche/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -30,26 +54,10 @@
     </item>
     
     <item>
-      <title>Charles Bouveyron</title>
-      <link>/authors/charles-bouveyron/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/charles-bouveyron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Guillaume Bataillon</title>
       <link>/authors/guillaume-bataillon/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/guillaume-bataillon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierre Latouche</title>
-      <link>/authors/pierre-latouche/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/pierre-latouche/</guid>
       <description></description>
     </item>
     
