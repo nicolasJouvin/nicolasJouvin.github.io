@@ -62,6 +62,7 @@ Horaires SARS-CoV-2 : Nous ferons les TDs à distance par Zoom de &lt;strong&gt;
 &lt;ul&gt;
 &lt;li&gt;ACP : &lt;a href=&#34;/docs/ADD/TD3/TD3.zip&#34;&gt;script&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;AC : cf. exemple du cours
+&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
@@ -70,7 +71,15 @@ Horaires SARS-CoV-2 : Nous ferons les TDs à distance par Zoom de &lt;strong&gt;
 &lt;ul&gt;
 &lt;li&gt;fin AC + ACM : script R de l&amp;rsquo;EPI amendés &lt;a href=&#34;/docs/ADD/TD-AC-ACM/TD-AC-ACM.zip&#34;&gt;ici&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Exo 1 et 2 Clustering : &lt;a href=&#34;/docs/ADD/TD-clustering/creation_donnees.R&#34;&gt;script création données&lt;/a&gt; + &lt;a href=&#34;/docs/ADD/TD-clustering/TD3_final.zip&#34;&gt;correction&lt;/a&gt;
+&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;TD6 : pour télécharger l&amp;rsquo;enregistrement c&amp;rsquo;est &lt;a href=&#34;https://filex.univ-paris1.fr/get?k=cIzqgsBsSVZtFHicXQB&#34; target=&#34;_blank&#34;&gt;ici&lt;/a&gt; (même mdp que pour Zoom)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Mclust&lt;/em&gt; : Voir par exemple la Table 1 de &lt;a href=&#34;https://www.jstatsoft.org/index.php/jss/article/view/v018i06/v18i06.pdf&#34; target=&#34;_blank&#34;&gt;ce papier&lt;/a&gt; pour la paramétrisation spécifique de Sigma_k dans chaque modèle de Mclust.&lt;/li&gt;
+&lt;li&gt;Exercice : Ecrire la vraisemblance complète d&amp;rsquo;un modèle de mélange L(x,z) puis la marginaliser sur z (somme sur les K^n configurations possibles). Retrouver ainsi l&amp;rsquo;expression de la vraisemblance des observations L(x) comme un produit sur les observations d&amp;rsquo;une combinaison convexe de K densités de probabilité (&lt;em&gt;i.e.&lt;/em&gt; un mélange!).&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
