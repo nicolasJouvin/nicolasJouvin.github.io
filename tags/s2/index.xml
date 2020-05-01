@@ -81,6 +81,12 @@ Horaires SARS-CoV-2 : Nous ferons les TDs à distance par Zoom de &lt;strong&gt;
 &lt;li&gt;&lt;em&gt;Mclust&lt;/em&gt; : Voir par exemple la Table 1 de &lt;a href=&#34;https://www.jstatsoft.org/index.php/jss/article/view/v018i06/v18i06.pdf&#34; target=&#34;_blank&#34;&gt;ce papier&lt;/a&gt; pour la paramétrisation spécifique de Sigma_k dans chaque modèle de Mclust.&lt;/li&gt;
 &lt;li&gt;Exercice : Ecrire la vraisemblance complète d&amp;rsquo;un modèle de mélange L(x,z) puis la marginaliser sur z (somme sur les K^n configurations possibles). Retrouver ainsi l&amp;rsquo;expression de la vraisemblance des observations L(x) comme un produit sur les observations d&amp;rsquo;une combinaison convexe de K densités de probabilité (&lt;em&gt;i.e.&lt;/em&gt; un mélange!).&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;TD7 : pour télécharger l&amp;rsquo;enregistrement c&amp;rsquo;est &lt;a href=&#34;https://filex.univ-paris1.fr/get?k=LyEUXAcl0TT2JdsQAqJ&#34; target=&#34;_blank&#34;&gt;ici&lt;/a&gt; (même mdp que pour Zoom)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Code commenté de l&amp;rsquo;EM gaussien en 1D : &lt;a href=&#34;/docs/ADD/TD-clustering/exo6_em.zip&#34;&gt;cliquer ici&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
