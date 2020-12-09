@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Variational inference | Nicolas Jouvin</title>
-    <link>/tags/variational-inference/</link>
-      <atom:link href="/tags/variational-inference/index.xml" rel="self" type="application/rss+xml" />
-    <description>Variational inference</description>
+    <title>Linear discriminant analysis | Nicolas Jouvin</title>
+    <link>/tags/linear-discriminant-analysis/</link>
+      <atom:link href="/tags/linear-discriminant-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linear discriminant analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Variational inference</title>
-      <link>/tags/variational-inference/</link>
+      <title>Linear discriminant analysis</title>
+      <link>/tags/linear-discriminant-analysis/</link>
     </image>
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/publication/bfem/</guid>
       <description>&lt;p&gt;The Bayesian Fisher-EM was implemented as an extension of the &lt;em&gt;FisherEM&lt;/em&gt; R package and more information is available on this &lt;a href=&#34;https://github.com/nicolasJouvin/FisherEM&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Greedy clustering of count data through a mixture of multinomial PCA</title>
-      <link>/publication/mmpca/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mmpca/</guid>
-      <description>&lt;p&gt;The R package is currently under devellopment and only available at my &lt;a href=&#34;https://github.com/nicolasJouvin/MMPCA&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt;, but it should appear on CRAN soon.&lt;/p&gt;
 </description>
     </item>
     

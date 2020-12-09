@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>
 
@@ -59,8 +59,16 @@
     <item>
       <title>Charles Bouveyron</title>
       <link>/authors/charles-bouveyron/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/authors/charles-bouveyron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pierre Latouche</title>
+      <link>/authors/pierre-latouche/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/pierre-latouche/</guid>
       <description></description>
     </item>
     
@@ -69,14 +77,6 @@
       <link>/authors/etienne-come/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/authors/etienne-come/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierre Latouche</title>
-      <link>/authors/pierre-latouche/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/pierre-latouche/</guid>
       <description></description>
     </item>
     
