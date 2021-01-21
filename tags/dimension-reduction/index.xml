@@ -5,12 +5,20 @@
     <link>/tags/dimension-reduction/</link>
       <atom:link href="/tags/dimension-reduction/index.xml" rel="self" type="application/rss+xml" />
     <description>Dimension reduction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Dimension reduction</title>
       <link>/tags/dimension-reduction/</link>
     </image>
+    
+    <item>
+      <title>High-dimensional data and graph clustering with discrete latent variable models</title>
+      <link>/publication/phd/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/phd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Greedy clustering of count data through a mixture of multinomial PCA</title>

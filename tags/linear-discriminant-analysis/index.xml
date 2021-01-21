@@ -5,7 +5,7 @@
     <link>/tags/linear-discriminant-analysis/</link>
       <atom:link href="/tags/linear-discriminant-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Linear discriminant analysis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/img/icon-192.png</url>
       <title>Linear discriminant analysis</title>
@@ -15,7 +15,7 @@
     <item>
       <title>A Bayesian Fisher-EM algorithm for discriminative Gaussian subspace clustering</title>
       <link>/publication/bfem/</link>
-      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/bfem/</guid>
       <description>&lt;p&gt;The Bayesian Fisher-EM was implemented as an extension of the &lt;em&gt;FisherEM&lt;/em&gt; R package and more information is available on this &lt;a href=&#34;https://github.com/nicolasJouvin/FisherEM&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;
 </description>

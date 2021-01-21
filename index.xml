@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicolas Jouvin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Nicolas Jouvin</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Publications</title>
       <link>/publication/</link>
-      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/publication/</guid>
       <description></description>
     </item>
