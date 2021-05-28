@@ -19,107 +19,122 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/3/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bfem/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/clustering/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dimension-reduction/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/high-dimensionality/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/phd/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mixture-model/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/block-modeling/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/charles-bouveyron/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/discrete-latent-variable-models/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <loc>/tags/clustering/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/etienne-come/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <loc>/tags/high-dimensionality/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/hierarchical-clustering/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <loc>/tags/linear-discriminant-analysis/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/greed/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <loc>/tags/mixture-model/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/integrated-classification-likelihood/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mixture-models/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/pierre-latouche/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/variational-inference/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/block-modeling/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/discrete-latent-variable-models/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/etienne-come/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hierarchical-clustering/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/greed/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/integrated-classification-likelihood/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mixture-models/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dimension-reduction/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/phd/</loc>
+    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -149,26 +164,31 @@
   
   <url>
     <loc>/authors/alain-livartowski/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/analyse/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/count-data/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/mmpca/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/guillaume-bataillon/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/topic-modeling/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/analyse/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,16 +223,6 @@
   </url>
   
   <url>
-    <loc>/tags/topic-modeling/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/variational-inference/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -223,19 +233,11 @@
   </url>
   
   <url>
-    <loc>/publication/bfem/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/linear-discriminant-analysis/</loc>
   </url>
   
 </urlset>

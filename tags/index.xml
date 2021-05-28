@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,39 +15,47 @@
     <item>
       <title>Clustering</title>
       <link>/tags/clustering/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/tags/clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dimension reduction</title>
-      <link>/tags/dimension-reduction/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/dimension-reduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High dimensionality</title>
       <link>/tags/high-dimensionality/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/tags/high-dimensionality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear discriminant analysis</title>
+      <link>/tags/linear-discriminant-analysis/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/linear-discriminant-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixture model</title>
       <link>/tags/mixture-model/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/tags/mixture-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational inference</title>
+      <link>/tags/variational-inference/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/tags/variational-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Block modeling</title>
       <link>/tags/block-modeling/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/tags/block-modeling/</guid>
       <description></description>
     </item>
@@ -55,7 +63,7 @@
     <item>
       <title>Discrete latent variable models</title>
       <link>/tags/discrete-latent-variable-models/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/tags/discrete-latent-variable-models/</guid>
       <description></description>
     </item>
@@ -63,7 +71,7 @@
     <item>
       <title>Hierarchical clustering</title>
       <link>/tags/hierarchical-clustering/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/tags/hierarchical-clustering/</guid>
       <description></description>
     </item>
@@ -71,7 +79,7 @@
     <item>
       <title>Integrated classification likelihood</title>
       <link>/tags/integrated-classification-likelihood/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/tags/integrated-classification-likelihood/</guid>
       <description></description>
     </item>
@@ -79,8 +87,16 @@
     <item>
       <title>Mixture models</title>
       <link>/tags/mixture-models/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/tags/mixture-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimension reduction</title>
+      <link>/tags/dimension-reduction/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/dimension-reduction/</guid>
       <description></description>
     </item>
     
@@ -109,18 +125,26 @@
     </item>
     
     <item>
-      <title>Analyse</title>
-      <link>/tags/analyse/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/analyse/</guid>
+      <title>Count data</title>
+      <link>/tags/count-data/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/count-data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Count data</title>
-      <link>/tags/count-data/</link>
+      <title>Topic modeling</title>
+      <link>/tags/topic-modeling/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/topic-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse</title>
+      <link>/tags/analyse/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/count-data/</guid>
+      <guid>/tags/analyse/</guid>
       <description></description>
     </item>
     
@@ -153,30 +177,6 @@
       <link>/tags/s1/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/tags/s1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topic modeling</title>
-      <link>/tags/topic-modeling/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/topic-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variational inference</title>
-      <link>/tags/variational-inference/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/variational-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear discriminant analysis</title>
-      <link>/tags/linear-discriminant-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/linear-discriminant-analysis/</guid>
       <description></description>
     </item>
     
