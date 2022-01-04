@@ -18,6 +18,41 @@
   </url>
   
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/azat/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/azat/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/miftakhov/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
@@ -29,11 +64,6 @@
   
   <url>
     <loc>/publication/bfem/</loc>
-    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,11 +93,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/pierre-latouche/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
@@ -79,11 +104,6 @@
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -149,11 +169,6 @@
   
   <url>
     <loc>/tags/m1/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   

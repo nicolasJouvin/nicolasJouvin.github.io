@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Azat Miftakhov | Nicolas Jouvin</title>
+    <link>/project/azat/</link>
+      <atom:link href="/project/azat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Free Azat Miftakhov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/project/azat/featured.png</url>
+      <title>Free Azat Miftakhov</title>
+      <link>/project/azat/</link>
+    </image>
+    
+  </channel>
+</rss>
