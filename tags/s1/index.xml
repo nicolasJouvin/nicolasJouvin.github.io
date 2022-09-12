@@ -14,116 +14,114 @@
     
     <item>
       <title>Python</title>
-      <link>/project/python/</link>
+      <link>/teaching/python/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/python/</guid>
-      <description>
-
-&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
-
-&lt;p&gt;Chargé de cours : Laurent Boyer &lt;br /&gt;
+      <guid>/teaching/python/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+&lt;p&gt;Chargé de cours : Laurent Boyer \
 Horaires : Mercredi de 8h à 10h.&lt;/p&gt;
-
 &lt;h1 id=&#34;annonces&#34;&gt;Annonces&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Décalage de la Séance 5:&lt;/strong&gt; Au vendredi 25 Octobre, de 8h à 10h en Salle B.14.05. Le CC1 est maintenu.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;1er contrôle continu (1H) lors de la 5ème séance&lt;/strong&gt;. Programme du contrôle : révisions et matplotlib. Cf. annonce sur EPI de Laurent Boyer et la fin des slides du cours 4.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Pour avoir accès à l&amp;rsquo;EPI du cours, il faut m&amp;rsquo;envoyer un mail pour avoir accès à la clef d&amp;rsquo;inscription.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Pour celles et ceux qui n&amp;rsquo;assistent pas au cours magistral : il est &lt;strong&gt;impératif&lt;/strong&gt; de regarder les slides du cours sur l&amp;rsquo;EPI avant le TD.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Décalage de la Séance 5:&lt;/strong&gt; Au vendredi 25 Octobre, de 8h à 10h en Salle B.14.05. Le CC1 est maintenu.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;1er contrôle continu (1H) lors de la 5ème séance&lt;/strong&gt;. Programme du contrôle : révisions et matplotlib. Cf. annonce sur EPI de Laurent Boyer et la fin des slides du cours 4.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pour avoir accès à l&amp;rsquo;EPI du cours, il faut m&amp;rsquo;envoyer un mail pour avoir accès à la clef d&amp;rsquo;inscription.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pour celles et ceux qui n&amp;rsquo;assistent pas au cours magistral : il est &lt;strong&gt;impératif&lt;/strong&gt; de regarder les slides du cours sur l&amp;rsquo;EPI avant le TD.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Les EPI (m&amp;rsquo;envoyer un mail pour avoir accès à la clef d&amp;rsquo;inscription).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;La &lt;a href=&#34;https://docs.python.org/fr/3.5/tutorial/introduction.html#&#34; target=&#34;_blank&#34;&gt;documentation python officielle&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://ouralou.fr/&#34; target=&#34;_blank&#34;&gt;Le site ouralou&lt;/a&gt; : Exercices interactifs pour apprendre les bases de Python&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;N&amp;rsquo;importe quel moteur de recherche&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Les EPI (m&amp;rsquo;envoyer un mail pour avoir accès à la clef d&amp;rsquo;inscription).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La &lt;a href=&#34;https://docs.python.org/fr/3.5/tutorial/introduction.html#&#34;&gt;documentation python officielle&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://ouralou.fr/&#34;&gt;Le site ouralou&lt;/a&gt; : Exercices interactifs pour apprendre les bases de Python&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;N&amp;rsquo;importe quel moteur de recherche&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;séances&#34;&gt;Séances&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;1ère séance :&lt;/strong&gt; Télécharger &lt;a href=&#34;https://www.anaconda.com/distribution/&#34; target=&#34;_blank&#34;&gt;Anaconda&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;2ème séance :&lt;/strong&gt; Finir la &lt;a href=&#34;/docs/PythonL3/2019S5TD1.pdf&#34;&gt;feuille 1&lt;/a&gt;. Voici &lt;em&gt;une&lt;/em&gt; &lt;a href=&#34;/docs/PythonL3/Corrections/TP1_correction.zip&#34;&gt;correction&lt;/a&gt; possible.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;3ème séance :&lt;/strong&gt; Introduction à Matplotlib (surtout son sous-module pyplot) &lt;strong&gt;Corection disponible sur l&amp;rsquo;EPI&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;4ème séance :&lt;/strong&gt;&lt;/p&gt;
-
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;1ère séance :&lt;/strong&gt; Télécharger &lt;a href=&#34;https://www.anaconda.com/distribution/&#34;&gt;Anaconda&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2ème séance :&lt;/strong&gt; Finir la &lt;a href=&#34;/docs/PythonL3/2019S5TD1.pdf&#34;&gt;feuille 1&lt;/a&gt;. Voici &lt;em&gt;une&lt;/em&gt; &lt;a href=&#34;/docs/PythonL3/Corrections/TP1_correction.zip&#34;&gt;correction&lt;/a&gt; possible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;3ème séance :&lt;/strong&gt; Introduction à Matplotlib (surtout son sous-module pyplot) &lt;strong&gt;Corection disponible sur l&amp;rsquo;EPI&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;4ème séance :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Exercice 3 du TP2 sur les chaînes de caratères.&lt;/li&gt;
 &lt;li&gt;Exercice sur Numpy. Réviser les slides avant.&lt;/li&gt;
-&lt;li&gt;Calcul du volume de l&amp;rsquo;hypersphere en dimension d : &lt;a href=&#34;/docs/PythonL3/Corrections/TP3/hypersphere/enonce_hypersphere.pdf&#34;&gt;énoncé&lt;/a&gt; / &lt;a href=&#34;/docs/PythonL3/Corrections/TP3/hypersphere/correction_hypersphere.zip&#34;&gt;corrigé&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;5ème séance :&lt;/strong&gt;&lt;/p&gt;
-
+&lt;li&gt;Calcul du volume de l&amp;rsquo;hypersphere en dimension d : &lt;a href=&#34;/docs/PythonL3/Corrections/TP3/hypersphere/enonce_hypersphere.pdf&#34;&gt;énoncé&lt;/a&gt; / &lt;a href=&#34;/docs/PythonL3/Corrections/TP3/hypersphere/correction_hypersphere.zip&#34;&gt;corrigé&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;5ème séance :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;CC1 (1H, cf. annonce).
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;6ème-7ème séance :&lt;/strong&gt;&lt;/p&gt;
-
+&lt;li&gt;CC1 (1H, cf. annonce).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;6ème-7ème séance :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ensemble de Mandelbrot : &lt;a href=&#34;https://fr.wikipedia.org/wiki/Ensemble_de_Mandelbrot&#34; target=&#34;_blank&#34;&gt;Wikipédia&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;8ème séance :&lt;/strong&gt;&lt;/p&gt;
-
+&lt;li&gt;Ensemble de Mandelbrot : &lt;a href=&#34;https://fr.wikipedia.org/wiki/Ensemble_de_Mandelbrot&#34;&gt;Wikipédia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;8ème séance :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Intro à Pandas : &lt;a href=&#34;/docs/PythonL3/Corrections/Pandas/TD_intro_pandas.zip&#34;&gt;énoncé + .csv&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Technique de calcul</title>
-      <link>/project/tdc/</link>
+      <link>/teaching/tdc/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/tdc/</guid>
-      <description>
-
-&lt;h1 id=&#34;annonce&#34;&gt;Annonce&lt;/h1&gt;
-
+      <guid>/teaching/tdc/</guid>
+      <description>&lt;h1 id=&#34;annonce&#34;&gt;Annonce&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;1er contrôle continu (20-30min) au début de la 4ème séance&lt;/strong&gt;. Programme : &lt;strong&gt;Tout&lt;/strong&gt; le cours (définitions, théorèmes et démonstrations) + exercices jusqu&amp;rsquo;à la séance 3.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;2ème contrôle continu (20-30min) au début de la 7ème séance&lt;/strong&gt;. Programme : &lt;strong&gt;Tout&lt;/strong&gt; le cours (définitions, théorèmes et démonstrations) + exercices jusqu&amp;rsquo;à la séance 6.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;1er contrôle continu (20-30min) au début de la 4ème séance&lt;/strong&gt;. Programme : &lt;strong&gt;Tout&lt;/strong&gt; le cours (définitions, théorèmes et démonstrations) + exercices jusqu&amp;rsquo;à la séance 3.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2ème contrôle continu (20-30min) au début de la 7ème séance&lt;/strong&gt;. Programme : &lt;strong&gt;Tout&lt;/strong&gt; le cours (définitions, théorèmes et démonstrations) + exercices jusqu&amp;rsquo;à la séance 6.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
-
-&lt;p&gt;Chargé de cours : M. Bachir &lt;br /&gt;
+&lt;p&gt;Chargé de cours : M. Bachir \
 Horaires : Vendredi de 13h30 à 16h&lt;/p&gt;
-
 &lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Synthèse de cours Terminales S/ES + exercices corrigés : &lt;a href=&#34;http://www.panamaths.net/&#34; target=&#34;_blank&#34;&gt;Panamaths&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Synthèse de cours niveau licence + exercices corrigés : &lt;a href=&#34;http://exo7.emath.fr/&#34; target=&#34;_blank&#34;&gt;Exo7&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.normalesup.org/~vripoll/MAT1013_Rappels_trigo.pdf&#34; target=&#34;_blank&#34;&gt;Sur la trigonométrie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Synthèse de cours Terminales S/ES + exercices corrigés : &lt;a href=&#34;http://www.panamaths.net/&#34;&gt;Panamaths&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Synthèse de cours niveau licence + exercices corrigés : &lt;a href=&#34;http://exo7.emath.fr/&#34;&gt;Exo7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.normalesup.org/~vripoll/MAT1013_Rappels_trigo.pdf&#34;&gt;Sur la trigonométrie&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;exercices&#34;&gt;Exercices&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Une fiche supplémentaire d&amp;rsquo;exercices sur la dérivation est disponible &lt;a href=&#34;/docs/TDC/Feuillerevisionderivees_xavierbacon.pdf&#34;&gt;ici&lt;/a&gt; (document rédigé et communiqué par &lt;a href=&#34;http://samm.univ-paris1.fr/-Xavier-Bacon-162-&#34; target=&#34;_blank&#34;&gt;M. Xavier Bacon&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Le &lt;a href=&#34;/docs/TDC/CC2/CC2.pdf&#34;&gt;CC2&lt;/a&gt; et son &lt;a href=&#34;/docs/TDC/CC2/CC2_correction.pdf&#34;&gt;corrigé&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Une fiche supplémentaire d&amp;rsquo;exercices sur la dérivation est disponible &lt;a href=&#34;/docs/TDC/Feuillerevisionderivees_xavierbacon.pdf&#34;&gt;ici&lt;/a&gt; (document rédigé et communiqué par &lt;a href=&#34;http://samm.univ-paris1.fr/-Xavier-Bacon-162-&#34;&gt;M. Xavier Bacon&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Le &lt;a href=&#34;/docs/TDC/CC2/CC2.pdf&#34;&gt;CC2&lt;/a&gt; et son &lt;a href=&#34;/docs/TDC/CC2/CC2_correction.pdf&#34;&gt;corrigé&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

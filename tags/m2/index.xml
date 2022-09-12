@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M2 | Nicolas Jouvin</title>
+    <link>/tags/m2/</link>
+      <atom:link href="/tags/m2/index.xml" rel="self" type="application/rss+xml" />
+    <description>M2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M2</title>
+      <link>/tags/m2/</link>
+    </image>
+    
+    <item>
+      <title>Introduction à Python</title>
+      <link>/teaching/pythonm2/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/teaching/pythonm2/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+&lt;p&gt;Chargé de cours : Nicolas Jouvin &lt;br&gt;
+Horaires : Mardi 14h-17h.&lt;/p&gt;
+&lt;h1 id=&#34;séances&#34;&gt;Séances&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1ère séance :&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Télécharger &lt;a href=&#34;https://www.anaconda.com/distribution/&#34;&gt;Anaconda&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Télécharger un IDE Python : &lt;a href=&#34;https://code.visualstudio.com/docs/languages/python&#34;&gt;VScode&lt;/a&gt; ou &lt;a href=&#34;https://www.jetbrains.com/fr-fr/pycharm/download/#section=linux&#34;&gt;PyCharm Community&lt;/a&gt; de préférence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;La &lt;a href=&#34;https://docs.python.org/fr/3.5/tutorial/introduction.html#&#34;&gt;documentation python officielle&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;N&amp;rsquo;importe quel moteur de recherche&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised learning</title>
+      <link>/teaching/unsupervised_learning/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/teaching/unsupervised_learning/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+&lt;p&gt;Chargé de cours : Christophe Ambroise &lt;br&gt;
+Horaires : Mercredi 8h30-11h45.&lt;/p&gt;
+&lt;h1 id=&#34;séances&#34;&gt;Séances&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1ère séance :&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Exercices au tableau&lt;/li&gt;
+&lt;li&gt;Simulation chaîne de Markov en R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -14,95 +14,93 @@
     
     <item>
       <title>Analyse des données</title>
-      <link>/project/add/</link>
+      <link>/teaching/add/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/project/add/</guid>
-      <description>
-
-&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
-
-&lt;p&gt;Chargé de cours : &lt;a href=&#34;https://sites.google.com/view/madalina-olteanu/home&#34; target=&#34;_blank&#34;&gt;Madalina Olteanu&lt;/a&gt; &lt;br /&gt;
+      <guid>/teaching/add/</guid>
+      <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+&lt;p&gt;Chargé de cours : &lt;a href=&#34;https://sites.google.com/view/madalina-olteanu/home&#34;&gt;Madalina Olteanu&lt;/a&gt; \
 Horaires SARS-CoV-2 : Nous ferons les TDs à distance par Zoom de &lt;strong&gt;13h30 à 15h30&lt;/strong&gt;. Contacter moi via le formulaire de ce site pour toutes questions / indisponibilités horaires ou matérielles pour suivre à distance.&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Join Zoom Meeting: &lt;a href=&#34;https://zoom.us/j/5831453334?pwd=anoxMTN0cGt0VFJSTlV3V3Q0VmwzQT09&#34; target=&#34;_blank&#34;&gt;https://zoom.us/j/5831453334?pwd=anoxMTN0cGt0VFJSTlV3V3Q0VmwzQT09&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Meeting ID: 583 145 3334&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Password: ADD2020&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Join Zoom Meeting: &lt;a href=&#34;https://zoom.us/j/5831453334?pwd=anoxMTN0cGt0VFJSTlV3V3Q0VmwzQT09&#34;&gt;https://zoom.us/j/5831453334?pwd=anoxMTN0cGt0VFJSTlV3V3Q0VmwzQT09&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meeting ID: 583 145 3334&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Password: ADD2020&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;programmation-en-r&#34;&gt;Programmation en R&lt;/h1&gt;
-
-&lt;h4 id=&#34;débutant&#34;&gt;Débutant :&lt;/h4&gt;
-
+&lt;h4 id=&#34;débutant-&#34;&gt;Débutant :&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Installation de &lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; et &lt;a href=&#34;https://www.rstudio.com/&#34; target=&#34;_blank&#34;&gt;Rstudio&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Le forum d’entraide &lt;a href=&#34;https://stackoverflow.com/&#34; target=&#34;_blank&#34;&gt;StackOverflow&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Installation de &lt;a href=&#34;https://cran.r-project.org/&#34;&gt;R&lt;/a&gt; et &lt;a href=&#34;https://www.rstudio.com/&#34;&gt;Rstudio&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Le forum d’entraide &lt;a href=&#34;https://stackoverflow.com/&#34;&gt;StackOverflow&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h4 id=&#34;plus-avancé&#34;&gt;Plus avancé :&lt;/h4&gt;
-
+&lt;h4 id=&#34;plus-avancé-&#34;&gt;Plus avancé :&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Les &lt;a href=&#34;https://rmarkdown.rstudio.com/lesson-1.html&#34; target=&#34;_blank&#34;&gt;Rmarkdowns&lt;/a&gt; pour la production de rapports et la reproductibilité des résultats.&lt;/li&gt;
-&lt;li&gt;Manipulation des données et autres spécifités de R à découvrir dans le &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;Tidyverse&lt;/a&gt;. En particulier les packages &lt;a href=&#34;https://dplyr.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;dplyr&lt;/a&gt; pour la manipulation de dataframe, et &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;ggplot2&lt;/a&gt; pour la visualisation.&lt;/li&gt;
+&lt;li&gt;Les &lt;a href=&#34;https://rmarkdown.rstudio.com/lesson-1.html&#34;&gt;Rmarkdowns&lt;/a&gt; pour la production de rapports et la reproductibilité des résultats.&lt;/li&gt;
+&lt;li&gt;Manipulation des données et autres spécifités de R à découvrir dans le &lt;a href=&#34;https://www.tidyverse.org/&#34;&gt;Tidyverse&lt;/a&gt;. En particulier les packages &lt;a href=&#34;https://dplyr.tidyverse.org/&#34;&gt;dplyr&lt;/a&gt; pour la manipulation de dataframe, et &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34;&gt;ggplot2&lt;/a&gt; pour la visualisation.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h1 id=&#34;enoncés-de-td-et-corrigés&#34;&gt;Enoncés de TD et corrigés&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;TD1 : &lt;a href=&#34;/docs/ADD/TD1/TD1.pdf&#34;&gt;Enoncé&lt;/a&gt; et &lt;a href=&#34;/docs/ADD/TD1/TD1_correction.zip&#34;&gt;Corrigé&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;TD2 : &lt;a href=&#34;/docs/ADD/TD2/creation_donnees.R&#34;&gt;Script&lt;/a&gt; pour créer les données + &lt;a href=&#34;/docs/ADD/TD2/TD2_correction.zip&#34;&gt;Corrigé&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;TD3 : Cf. le code et les données sur l&amp;rsquo;EPI du cours.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;TD4 : pour télécharger l&amp;rsquo;enregistrement c&amp;rsquo;est &lt;a href=&#34;https://filex.univ-paris1.fr/get?k=9i9KsuP4aCDNguR75Zn&#34; target=&#34;_blank&#34;&gt;ici&lt;/a&gt; (même mdp que pour Zoom)&lt;/p&gt;
-
+&lt;li&gt;
+&lt;p&gt;TD1 : &lt;a href=&#34;/docs/ADD/TD1/TD1.pdf&#34;&gt;Enoncé&lt;/a&gt; et &lt;a href=&#34;/docs/ADD/TD1/TD1_correction.zip&#34;&gt;Corrigé&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TD2 : &lt;a href=&#34;/docs/ADD/TD2/creation_donnees.R&#34;&gt;Script&lt;/a&gt; pour créer les données + &lt;a href=&#34;/docs/ADD/TD2/TD2_correction.zip&#34;&gt;Corrigé&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TD3 : Cf. le code et les données sur l&amp;rsquo;EPI du cours.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TD4 : pour télécharger l&amp;rsquo;enregistrement c&amp;rsquo;est &lt;a href=&#34;https://filex.univ-paris1.fr/get?k=9i9KsuP4aCDNguR75Zn&#34;&gt;ici&lt;/a&gt; (même mdp que pour Zoom)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ACP : &lt;a href=&#34;/docs/ADD/TD3/TD3.zip&#34;&gt;script&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AC : cf. exemple du cours&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TD5 : pour télécharger l&amp;rsquo;enregistrement c&amp;rsquo;est &lt;a href=&#34;https://filex.univ-paris1.fr/get?k=zt54jEfyqu22oQtvAVj&#34;&gt;ici&lt;/a&gt; (même mdp que pour Zoom)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;fin AC + ACM : script R de l&amp;rsquo;EPI amendés &lt;a href=&#34;/docs/ADD/TD-AC-ACM/TD-AC-ACM.zip&#34;&gt;ici&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exo 1 et 2 Clustering : &lt;a href=&#34;/docs/ADD/TD-clustering/creation_donnees.R&#34;&gt;script création données&lt;/a&gt; + &lt;a href=&#34;/docs/ADD/TD-clustering/TD3_final.zip&#34;&gt;correction&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TD6 : pour télécharger l&amp;rsquo;enregistrement c&amp;rsquo;est &lt;a href=&#34;https://filex.univ-paris1.fr/get?k=cIzqgsBsSVZtFHicXQB&#34;&gt;ici&lt;/a&gt; (même mdp que pour Zoom)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;ACP : &lt;a href=&#34;/docs/ADD/TD3/TD3.zip&#34;&gt;script&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AC : cf. exemple du cours
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;TD5 : pour télécharger l&amp;rsquo;enregistrement c&amp;rsquo;est &lt;a href=&#34;https://filex.univ-paris1.fr/get?k=zt54jEfyqu22oQtvAVj&#34; target=&#34;_blank&#34;&gt;ici&lt;/a&gt; (même mdp que pour Zoom)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;fin AC + ACM : script R de l&amp;rsquo;EPI amendés &lt;a href=&#34;/docs/ADD/TD-AC-ACM/TD-AC-ACM.zip&#34;&gt;ici&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Exo 1 et 2 Clustering : &lt;a href=&#34;/docs/ADD/TD-clustering/creation_donnees.R&#34;&gt;script création données&lt;/a&gt; + &lt;a href=&#34;/docs/ADD/TD-clustering/TD3_final.zip&#34;&gt;correction&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;TD6 : pour télécharger l&amp;rsquo;enregistrement c&amp;rsquo;est &lt;a href=&#34;https://filex.univ-paris1.fr/get?k=cIzqgsBsSVZtFHicXQB&#34; target=&#34;_blank&#34;&gt;ici&lt;/a&gt; (même mdp que pour Zoom)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Mclust&lt;/em&gt; : Voir par exemple la Table 1 de &lt;a href=&#34;https://www.jstatsoft.org/index.php/jss/article/view/v018i06/v18i06.pdf&#34; target=&#34;_blank&#34;&gt;ce papier&lt;/a&gt; pour la paramétrisation spécifique de Sigma_k dans chaque modèle de Mclust.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mclust&lt;/em&gt; : Voir par exemple la Table 1 de &lt;a href=&#34;https://www.jstatsoft.org/index.php/jss/article/view/v018i06/v18i06.pdf&#34;&gt;ce papier&lt;/a&gt; pour la paramétrisation spécifique de Sigma_k dans chaque modèle de Mclust.&lt;/li&gt;
 &lt;li&gt;Exercice : Ecrire la vraisemblance complète d&amp;rsquo;un modèle de mélange L(x,z) puis la marginaliser sur z (somme sur les K^n configurations possibles). Retrouver ainsi l&amp;rsquo;expression de la vraisemblance des observations L(x) comme un produit sur les observations d&amp;rsquo;une combinaison convexe de K densités de probabilité (&lt;em&gt;i.e.&lt;/em&gt; un mélange!).&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;TD7 : pour télécharger l&amp;rsquo;enregistrement c&amp;rsquo;est &lt;a href=&#34;https://filex.univ-paris1.fr/get?k=LyEUXAcl0TT2JdsQAqJ&#34; target=&#34;_blank&#34;&gt;ici&lt;/a&gt; (même mdp que pour Zoom)&lt;/p&gt;
-
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TD7 : pour télécharger l&amp;rsquo;enregistrement c&amp;rsquo;est &lt;a href=&#34;https://filex.univ-paris1.fr/get?k=LyEUXAcl0TT2JdsQAqJ&#34;&gt;ici&lt;/a&gt; (même mdp que pour Zoom)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Code commenté de l&amp;rsquo;EM gaussien en 1D : &lt;a href=&#34;/docs/ADD/TD-clustering/exo6_em.zip&#34;&gt;cliquer ici&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;LDA/QDA&lt;/strong&gt; La page explicative de scikit-learn montre assez succintement le modèle probabiliste et la forme de la frontière de décision. A lire à partir de la section 1.2.2&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Algorithme EM pour les mélanges gaussiens&lt;/strong&gt; Les slides de &lt;a href=&#34;http://imagine.enpc.fr/~obozinsg/&#34; target=&#34;_blank&#34;&gt;Guillaume Obozinski&lt;/a&gt; pour son cours au MVA sont disponibles &lt;a href=&#34;https://www.di.ens.fr/%7Eslacoste/teaching/MVA_GM/fall2015/cours_MVA_EM.pdf&#34; target=&#34;_blank&#34;&gt;ici&lt;/a&gt;. Elles contiennent le Kmeans, les mélanges gaussiens et l’inférence avec l’EM avec toutes les définitions et calculs analytiques.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Regression Logistique&lt;/strong&gt;&lt;/p&gt;
-
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LDA/QDA&lt;/strong&gt; La page explicative de scikit-learn montre assez succintement le modèle probabiliste et la forme de la frontière de décision. A lire à partir de la section 1.2.2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Algorithme EM pour les mélanges gaussiens&lt;/strong&gt; Les slides de &lt;a href=&#34;http://imagine.enpc.fr/~obozinsg/&#34;&gt;Guillaume Obozinski&lt;/a&gt; pour son cours au MVA sont disponibles &lt;a href=&#34;https://www.di.ens.fr/%7Eslacoste/teaching/MVA_GM/fall2015/cours_MVA_EM.pdf&#34;&gt;ici&lt;/a&gt;. Elles contiennent le Kmeans, les mélanges gaussiens et l’inférence avec l’EM avec toutes les définitions et calculs analytiques.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Regression Logistique&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Les &lt;a href=&#34;https://www.di.ens.fr/%7Eslacoste/teaching/MVA_GM/fall2015/cours_MVA_2015_regressions_hdt.pdf&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt; de Guillaume Obozinski, la régression linéaire n’est pas au programme mais ça peut toujours être intéressant pour vous.&lt;/li&gt;
-&lt;li&gt;Il y a également les notes de lectures d’étudiant.e.s ayant suivis ce cours &lt;a href=&#34;https://www.di.ens.fr/%7Efbach/courses/fall2013/lecture2.pdf&#34; target=&#34;_blank&#34;&gt;ici&lt;/a&gt;. La régression logistique se trouve page 2-4 et 2-5.&lt;/li&gt;
+&lt;li&gt;Les &lt;a href=&#34;https://www.di.ens.fr/%7Eslacoste/teaching/MVA_GM/fall2015/cours_MVA_2015_regressions_hdt.pdf&#34;&gt;slides&lt;/a&gt; de Guillaume Obozinski, la régression linéaire n’est pas au programme mais ça peut toujours être intéressant pour vous.&lt;/li&gt;
+&lt;li&gt;Il y a également les notes de lectures d’étudiant.e.s ayant suivis ce cours &lt;a href=&#34;https://www.di.ens.fr/%7Efbach/courses/fall2013/lecture2.pdf&#34;&gt;ici&lt;/a&gt;. La régression logistique se trouve page 2-4 et 2-5.&lt;/li&gt;
 &lt;li&gt;Et bien sûr je suis joignable par mail pour toute question. Il y a également Wikipédia, Statexchange, et/ou n’importe quel moteur de recherche.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

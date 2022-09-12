@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -17,10 +17,8 @@
       <link>/authors/admin/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am an &lt;a href=&#34;https://www.inrae.fr/&#34; target=&#34;_blank&#34;&gt;INRAE&lt;/a&gt; researcher at the MIA-Paris laboratory in applied mathematics and statistics. My main area of research is probabilistic models for unsupervised learning tasks such as &lt;strong&gt;model-based clustering&lt;/strong&gt; or &lt;strong&gt;dimension reduction&lt;/strong&gt;, with real-data applications.&lt;/p&gt;
-
-&lt;p&gt;I completed my PhD on &lt;em&gt;high-dimensional data and graph clustering with discrete latent variable models&lt;/em&gt; at Laboratoire SAMM of Paris 1 Panthéon-Sorbonne University, under the supervision of &lt;a href=&#34;http://helios.mi.parisdescartes.fr/~platouch/&#34; target=&#34;_blank&#34;&gt;Pr. Pierre Latouche&lt;/a&gt;, &lt;a href=&#34;https://math.unice.fr/~cbouveyr/&#34; target=&#34;_blank&#34;&gt;Pr. Charles Bouveyron&lt;/a&gt; and &lt;a href=&#34;https://curie.fr/personne/alain-livartowski&#34; target=&#34;_blank&#34;&gt;Dr. Alain Livartowski&lt;/a&gt;. During my PhD, I worked in collaboration with &lt;a href=&#34;https://curie.fr/&#34; target=&#34;_blank&#34;&gt;Institut Curie&lt;/a&gt; on the modelisation of clinical data from anathomo-pathological images to textual medical reports. Then, prior to joining INRAE, I did a one-year postdoc with &lt;a href=&#34;https://ydecastro.github.io/&#34; target=&#34;_blank&#34;&gt;Yohann De Castro&lt;/a&gt; on learning mixture models with sparse regularisation on the space of measures.&lt;/p&gt;
-
+      <description>&lt;p&gt;I am an &lt;a href=&#34;https://www.inrae.fr/&#34;&gt;INRAE&lt;/a&gt; researcher at the MIA-Paris laboratory in applied mathematics and statistics. My main area of research is probabilistic models for unsupervised learning tasks such as &lt;strong&gt;model-based clustering&lt;/strong&gt; or &lt;strong&gt;dimension reduction&lt;/strong&gt;, with real-data applications.&lt;/p&gt;
+&lt;p&gt;I completed my PhD on &lt;em&gt;high-dimensional data and graph clustering with discrete latent variable models&lt;/em&gt; at Laboratoire SAMM of Paris 1 Panthéon-Sorbonne University, under the supervision of &lt;a href=&#34;http://helios.mi.parisdescartes.fr/~platouch/&#34;&gt;Pr. Pierre Latouche&lt;/a&gt;, &lt;a href=&#34;https://math.unice.fr/~cbouveyr/&#34;&gt;Pr. Charles Bouveyron&lt;/a&gt; and &lt;a href=&#34;https://curie.fr/personne/alain-livartowski&#34;&gt;Dr. Alain Livartowski&lt;/a&gt;. During my PhD, I worked in collaboration with &lt;a href=&#34;https://curie.fr/&#34;&gt;Institut Curie&lt;/a&gt; on the modelisation of clinical data from anathomo-pathological images to textual medical reports. Then, prior to joining INRAE, I did a one-year postdoc with &lt;a href=&#34;https://ydecastro.github.io/&#34;&gt;Yohann De Castro&lt;/a&gt; on learning mixture models with sparse regularisation on the space of measures.&lt;/p&gt;
 &lt;p&gt;More info on my CV : &lt;a href=&#34;/docs/CV/CVen_NicolasJouvin.pdf&#34;&gt;english&lt;/a&gt; / &lt;a href=&#34;/docs/CV/CVfr_NicolasJouvin.pdf&#34;&gt;français&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
