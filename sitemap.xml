@@ -2,14 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>/teaching/datacamp/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <loc>/tags/m2/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/teaching/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/teaching/unsupervised_learning/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/teaching/_pythonm2/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/m1/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/azat/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
@@ -21,12 +36,6 @@
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/miftakhov/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/admin/</loc>
@@ -98,16 +107,10 @@
     <loc>/tags/analyse-des-donnees/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/teaching/add/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/m1/</loc>
+    <loc>/teaching/_add/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/s2/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/teaching/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/alain-livartowski/</loc>
@@ -128,41 +131,23 @@
     <loc>/tags/analyse/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/teaching/pythonm2/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/l1/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/l3/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/m2/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/miage/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/teaching/python/</loc>
+    <loc>/teaching/_pythonl3miage/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/s1/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/teaching/tdc/</loc>
+    <loc>/teaching/_tdc/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/teaching/unsupervised_learning/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url>

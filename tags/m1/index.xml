@@ -5,7 +5,7 @@
     <link>/tags/m1/</link>
       <atom:link href="/tags/m1/index.xml" rel="self" type="application/rss+xml" />
     <description>M1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>M1</title>
@@ -13,10 +13,48 @@
     </image>
     
     <item>
+      <title>Introduction à Python</title>
+      <link>/teaching/_pythonm2/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/teaching/_pythonm2/</guid>
+      <description>&lt;h1 id=&#34;this-course-is-not-taught-anymore&#34;&gt;This course is not taught anymore&lt;/h1&gt;
+&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+&lt;p&gt;Chargé de cours : Nicolas Jouvin &lt;br&gt;
+Horaires : Mardi 14h-17h15 (salle info).&lt;/p&gt;
+&lt;h1 id=&#34;organisation&#34;&gt;Organisation&lt;/h1&gt;
+&lt;p&gt;Toutes les information utiles et matériel de cours/TP seront communiqué via la page github du cours&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/nicolasJouvin/introduction_python&#34;&gt;https://github.com/nicolasJouvin/introduction_python&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;séances&#34;&gt;Séances&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1ère séance :&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Télécharger &lt;a href=&#34;https://www.anaconda.com/distribution/&#34;&gt;Anaconda&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Télécharger un IDE Python : &lt;a href=&#34;https://code.visualstudio.com/docs/languages/python&#34;&gt;VScode&lt;/a&gt; de préférence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;La &lt;a href=&#34;https://docs.python.org/fr/3.5/tutorial/introduction.html#&#34;&gt;documentation python officielle&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;N&amp;rsquo;importe quel moteur de recherche&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://stackoverflow.com/questions/tagged/python&#34;&gt;Stackoverflow&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Analyse des données</title>
-      <link>/teaching/add/</link>
+      <link>/teaching/_add/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/add/</guid>
+      <guid>/teaching/_add/</guid>
       <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
 &lt;p&gt;Chargé de cours : &lt;a href=&#34;https://sites.google.com/view/madalina-olteanu/home&#34;&gt;Madalina Olteanu&lt;/a&gt; \
 Horaires SARS-CoV-2 : Nous ferons les TDs à distance par Zoom de &lt;strong&gt;13h30 à 15h30&lt;/strong&gt;. Contacter moi via le formulaire de ce site pour toutes questions / indisponibilités horaires ou matérielles pour suivre à distance.&lt;/p&gt;

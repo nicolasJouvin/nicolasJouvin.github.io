@@ -5,7 +5,7 @@
     <link>/tags/m2/</link>
       <atom:link href="/tags/m2/index.xml" rel="self" type="application/rss+xml" />
     <description>M2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>M2</title>
@@ -13,100 +13,53 @@
     </image>
     
     <item>
-      <title>Introduction à Python</title>
-      <link>/teaching/pythonm2/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/teaching/pythonm2/</guid>
+      <title>Data Camp</title>
+      <link>/teaching/datacamp/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/teaching/datacamp/</guid>
       <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
-&lt;p&gt;Chargé de cours : Nicolas Jouvin &lt;br&gt;
-Horaires : Mardi 14h-17h15 (salle info).&lt;/p&gt;
-&lt;h1 id=&#34;organisation&#34;&gt;Organisation&lt;/h1&gt;
-&lt;p&gt;Toutes les information utiles et matériel de cours/TP seront communiqué via la page github du cours&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/nicolasJouvin/introduction_python&#34;&gt;https://github.com/nicolasJouvin/introduction_python&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;séances&#34;&gt;Séances&lt;/h1&gt;
+&lt;p&gt;Chargé de cours : Nicolas Jouvin&lt;/p&gt;
+&lt;p&gt;Ce module a pour but de vous confronter à un problème d&amp;rsquo;apprentissage concret avec toutes les dimensions que cela contient&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;1ère séance :&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Télécharger &lt;a href=&#34;https://www.anaconda.com/distribution/&#34;&gt;Anaconda&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Télécharger un IDE Python : &lt;a href=&#34;https://code.visualstudio.com/docs/languages/python&#34;&gt;VScode&lt;/a&gt; de préférence&lt;/li&gt;
+&lt;li&gt;une problématique à laquelle répondre&lt;/li&gt;
+&lt;li&gt;Compréhension des données, analyse de l&amp;rsquo;état de l&amp;rsquo;art existant&lt;/li&gt;
+&lt;li&gt;construction d&amp;rsquo;un modèle / une pipeline de machine learning&lt;/li&gt;
+&lt;li&gt;analyse de ses points forts/faible&lt;/li&gt;
+&lt;li&gt;programmer correctement et proprement&lt;/li&gt;
+&lt;li&gt;travailler en équipe et maitriser les outils informatiques modernes (git, github)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;La &lt;a href=&#34;https://docs.python.org/fr/3.5/tutorial/introduction.html#&#34;&gt;documentation python officielle&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;N&amp;rsquo;importe quel moteur de recherche&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://stackoverflow.com/questions/tagged/python&#34;&gt;Stackoverflow&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Nous passerons par la plateforme &lt;a href=&#34;https://ramp.studio/&#34;&gt;RAMP.studio&lt;/a&gt; devellopée par l&amp;rsquo;Université Paris-Saclay.&lt;/p&gt;
+&lt;h1 id=&#34;edition-2023-2024&#34;&gt;Edition 2023-2024&lt;/h1&gt;
+&lt;p&gt;Plus d&amp;rsquo;informations à venir.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unsupervised learning</title>
       <link>/teaching/unsupervised_learning/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/teaching/unsupervised_learning/</guid>
       <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
-&lt;p&gt;Chargé de cours : Christophe Ambroise &lt;br&gt;
+&lt;p&gt;Chargé de cours : Nicolas Jouvin &lt;br&gt;
 Horaires : Mercredi 8h30-11h45.&lt;/p&gt;
 &lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
-&lt;p&gt;Les corrections des TPs sur les chaînes de Markov et l&amp;rsquo;algorithme EM sont en ligne. &lt;strong&gt;Conseil&lt;/strong&gt; : essayer de les programmer avant de regarder la correction !&lt;/p&gt;
-&lt;h1 id=&#34;examen&#34;&gt;Examen&lt;/h1&gt;
-&lt;p&gt;Aucun document autorisé&lt;/p&gt;
-&lt;h1 id=&#34;projet&#34;&gt;Projet&lt;/h1&gt;
-&lt;p&gt;A rendre à C. Ambroise &lt;strong&gt;avant&lt;/strong&gt; les vacances de noël.&lt;/p&gt;
+&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction to Bayesian statistics&lt;/li&gt;
+&lt;li&gt;Clustering with finite mixture models&lt;/li&gt;
+&lt;li&gt;The EM algorithm&lt;/li&gt;
+&lt;li&gt;Hidden Markov Models&lt;/li&gt;
+&lt;li&gt;Stochastic Block Model and introduction to variational inference&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h1 id=&#34;séances&#34;&gt;Séances&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;1ère séance :&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Exercices au tableau&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2eme séance :&lt;/strong&gt; &lt;a href=&#34;/docs/unsupervised_learning/TD_chaine_markov/TD1-ChaineMarkov_enonce.html&#34;&gt;Télécharger l&amp;rsquo;énoncé&lt;/a&gt;(&lt;a href=&#34;/docs/unsupervised_learning/TD_chaine_markov/TD1-ChaineMarkov_enonce_et_corrige.html&#34;&gt;corrigé&lt;/a&gt;)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Simulation chaîne de Markov en R&lt;/li&gt;
-&lt;li&gt;Simulation estimateur de Bayes&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;3ème séance&lt;/strong&gt; Algorithme EM &lt;a href=&#34;/docs/unsupervised_learning/TD_EM/enonce_TD_EM.pdf&#34;&gt;Télécharger l&amp;rsquo;énoncé&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;4ème séance&lt;/strong&gt; &lt;em&gt;TODO&lt;/em&gt; finir l&amp;rsquo;exercice 5 du TD3 (on ne fera pas les calculs en multidimensionels, voici une ressource en ligne qui détaille les calculs:  &lt;a href=&#34;https://www.di.ens.fr/%7Eslacoste/teaching/MVA_GM/fall2015/cours_MVA_EM.pdf&#34;&gt;télécharger&lt;/a&gt;).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;5ème séance&lt;/strong&gt; :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/docs/unsupervised_learning/TD_EM/TP_EM_programmation.pdf&#34;&gt;TP EM enoncé&lt;/a&gt; (&lt;a href=&#34;/docs/unsupervised_learning/TD_EM/TP_EM_programmation_correction.pdf&#34;&gt;corrigé&lt;/a&gt;)Finir l&amp;rsquo;implémentation de l&amp;rsquo;algorithme EM pour les mélanges Gaussien 1D.&lt;/li&gt;
-&lt;li&gt;TP sur les HMMs &lt;a href=&#34;/docs/unsupervised_learning/TD_HMM/TD_HMM_enonce.pdf&#34;&gt;télécharger l&amp;rsquo;énoncé&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1ère séance :&lt;/strong&gt; 3h class + &lt;a href=&#34;/docs/unsupervised_learning/bayesian_exercise_sheet.pdf&#34;&gt;Dowload TD1 exercice sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2eme séance :&lt;/strong&gt; Practical session will be a correction of the Bayesian exercises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3ème séance :&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4ème séance :&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5ème séance :&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;corrections&#34;&gt;Corrections&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Séance 2 - chaîne de Makov: &lt;a href=&#34;/docs/unsupervised_learning/TD_chaine_markov/TD1-ChaineMarkov_enonce_et_corrige.pdf&#34;&gt;télécharger le Rmarkdown de correction&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Séance 4 : algorithme EM &lt;a href=&#34;/docs/unsupervised_learning/TD_EM/TP_EM_programmation_correction.pdf&#34;&gt;télécharger le Rmarkdown de correction&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Séance 5 : TP HMM &lt;a href=&#34;/docs/unsupervised_learning/TD_HMM/TD_HMM_correction_sans_baum_welch.pdf&#34;&gt;télécharger le Rmarkdown de correction&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Séance 7 : Code VEM pour SBM &lt;a href=&#34;/docs/unsupervised_learning/TD_SBM/SBM.pdf&#34;&gt;télécharger le code de C. Ambroise&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
 </description>
     </item>
