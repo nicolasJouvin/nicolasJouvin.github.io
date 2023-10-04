@@ -19,7 +19,7 @@ initEM <- function(x, partition) {
   n = length(x)  
   
   nks = table(partition)
-  param$pi = nks / n
+  param$PI = nks / n
   param$theta$mu = rep(0, K)
   param$theta$sigma2 = rep(0, K)
   for (k in 1:K) {
@@ -52,14 +52,14 @@ log(sum(exp(logx)))
 
 Estep <- function(x, param) {
   n = length(x)
-  K = length(param$pi)
+  K = length(param$PI)
   
   logtau = matrix(0, n, K)
   
   # Option 1:
   # for (i in 1:n) {
   #   for(k in 1:K) {
-  #     logtau[i, k] = log(param$pi[k]) + 
+  #     logtau[i, k] = log(param$PI[k]) + 
   #       dnorm(x = x[i], 
   #             mean = param$theta$mu[k],
   #             sd = sqrt(param$theta$sigma2[k]), 
@@ -71,21 +71,146 @@ Estep <- function(x, param) {
   # Option 2: eviter la boucle sur 1:n
   # use vectorization of dnorm()
   for (k in 1:K) {
-    logtau[,k] = log(param$pi[k]) +
+    logtau[,k] = log(param$PI[k]) +
              dnorm(x = x, 
               mean = param$theta$mu[k],
               sd = sqrt(param$theta$sigma2[k]), 
               log = T)
   }
+  
+  
   # normalize the rows
   logtau = logtau - apply(logtau, 1, logsumexp)
-  return(logtau)
+  tau = exp(logtau)
+  # sanity check 
+  stopifnot(all.equal(tau |> rowSums(), rep(1, n)))
+
+  return(tau)
 }
 
 # test Estep
 init_param = initEM(data$Var, data$partition1)
-logtau_init = Estep(data$Var, param=init_param)
-logtau_init
-exp(logtau_init) |> rowSums()
+tau_init = Estep(data$Var, param=init_param)
+tau_init
+tau_init |> rowSums()
+```
+
+```{r M-step} 
+compute_PI = function(tau) {
+  n = nrow(tau)
+  return(colSums(tau) / n)
+}
+
+compute_mu = function(tau, x) {
+  n = nrow(tau)
+  K = ncol(tau)
+  mu = rep(NA , K)
+  nks = colSums(tau)
+  for (k in 1:K) {
+    mu[k] = sum(tau[,k] * x) / nks[k]
+  }
+
+  return(mu)
+}
+
+compute_sigma2 = function(tau, mu, x) {
+  n = nrow(tau)
+  K = ncol(tau)
+  sigma2 = rep(NA , K)
+  nks = colSums(tau)
+  for (k in 1:K) {
+    sigma2[k] = sum(tau[,k] * (x - mu[k])^2) / nks[k]
+  }
+  
+  return(sigma2)
+}
+
+Mstep = function(x, tau) {
+  PI = compute_PI(tau)
+  mu = compute_mu(tau, x)
+  sigma2 = compute_sigma2(tau, mu, x)
+  
+  return(list(PI=PI, theta = list(mu=mu, sigma2=sigma2)))
+}
+
+
+x = data$Var
+# E-step
+tau_init = Estep(x, init_param)
+# M-step
+params = Mstep(x, tau_init)
+params$PI
+params$theta
+```
+
+```{r compute-llhood}
+compute_mixture_llhood = function(x, param) {
+  n = length(x)
+  K = length(param$PI)
+  M = matrix(NA, n, K)
+  # logM = matrix(NA, n, K)
+  for (k in 1:K) {
+    # logM[,k] = log(param$PI[k]) + dnorm(x, mean = param$theta$mu[k], sd = sqrt(param$theta$sigma2[k]), log = TRUE) # computations in logspace
+    M[,k] = param$PI[k] * dnorm(x, mean = param$theta$mu[k], sd = sqrt(param$theta$sigma2[k]), log = FALSE)
+  }
+  
+  # possible de coder logM dans le for()
+  # avec dnorm(...,  log = TRUE)
+  # et d'utiliser un 
+  # llhood = sum(apply(logM, 1, logsumexp)) 
+  llhood = sum(log(rowSums(M)))
+  
+  return(llhood)
+}
+
+compute_mixture_llhood(x=data$Var, param = params)
+```
+```{r EM-algo}
+EMgauss1D = function(x, K, partition_init, max.iter, rtol) {
+  
+  stopifnot(K == length(unique(partition_init)))
+  
+  logliks = rep(NA, max.iter)
+  
+  # init
+  params = initEM(x, partition = partition_init)
+  print(params$PI)
+  new = compute_mixture_llhood(x, params)
+  
+  # main loop of EM
+  for (t in 1:max.iter) {
+    
+    old = new
+    logliks[t] = old
+    
+    # E-step (param is fixed)
+    tau = Estep(x, params)
+    
+    # M-step (update param)
+    params = Mstep(x, tau)
+    
+    # test cvgce criterion
+    new = compute_mixture_llhood(x, params)
+    
+    if(abs(new - old) / abs(old) < rtol) {
+      break
+    }
+  }
+  
+  # re-do E-step after convergence
+  tau = Estep(x, params)
+  
+  return(list(logliks=na.omit(logliks), tau=tau, param=params))
+}
+
+max.iter = 100
+rtol = 1e-6
+K = 2
+partition_init = data$partition1
+
+res_em = EMgauss1D(x=data$Var, K,
+partition_init, max.iter, rtol)
+plot(res_em$logliks)
+all(diff(res_em$logliks) >= 0)
 ```
 
