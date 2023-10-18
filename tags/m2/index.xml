@@ -43,8 +43,9 @@
 &lt;p&gt;Chargé de cours : Nicolas Jouvin &lt;br&gt;
 Horaires : Mercredi 8h30-11h45.&lt;/p&gt;
 &lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
-&lt;p&gt;Download the slides: &lt;a href=&#34;/docs/unsupervised_learning/slides_cours_unsupervised.pdf&#34;&gt;here&lt;/a&gt; (there will be frequent updates, keep up to date !)&lt;/p&gt;
-&lt;p&gt;On the fly version of the code during TD on GMM &lt;a href=&#34;/docs/unsupervised_learning/TD2_GMM/correction_live_gmmem.qmd&#34;&gt;downloadable here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exam dates and room:&lt;/strong&gt; TBA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Autorized documents&lt;/strong&gt;: TBA (for now, consider it None)&lt;/p&gt;
+&lt;p&gt;Up-to-date version of the slides: &lt;a href=&#34;/docs/unsupervised_learning/slides_cours_unsupervised.pdf&#34;&gt;here&lt;/a&gt; (there will be frequent updates, keep up to date !)&lt;/p&gt;
 &lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;Introduction to Bayesian statistics&lt;/li&gt;
@@ -63,6 +64,7 @@ Horaires : Mercredi 8h30-11h45.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;6ème séance :&lt;/strong&gt;  Variational inference &amp;amp; illustration with SBM&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;corrections&#34;&gt;Corrections&lt;/h1&gt;
+&lt;p&gt;On the fly version of the code during TD on GMM &lt;a href=&#34;/docs/unsupervised_learning/TD2_GMM/correction_live_gmmem.qmd&#34;&gt;downloadable here&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
 </description>
     </item>
