@@ -17,7 +17,37 @@
       <link>/teaching/datacamp/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/teaching/datacamp/</guid>
-      <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;important-news&#34;&gt;Important news&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Rapport&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;deadline &lt;strong&gt;mercredi 13 décembre 23h59&lt;/strong&gt;, par mail.&lt;/li&gt;
+&lt;li&gt;8 pages maximum (figures comprises)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Soutenances&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lundi 18/12, salle 113&lt;/li&gt;
+&lt;li&gt;20 min total : 10 min présentation, 10 min questions&lt;/li&gt;
+&lt;li&gt;ordre de passage en commençant à 8h30 :
+&lt;ol&gt;
+&lt;li&gt;Alsamadi_gavilanes&lt;/li&gt;
+&lt;li&gt;Aymen-Birahim-Yassir&lt;/li&gt;
+&lt;li&gt;blackbull&lt;/li&gt;
+&lt;li&gt;Bounazou-Nefzi&lt;/li&gt;
+&lt;li&gt;gabriele-nabab-nawal&lt;/li&gt;
+&lt;li&gt;Gabriel_Traore&lt;/li&gt;
+&lt;li&gt;Project&lt;/li&gt;
+&lt;li&gt;tb&lt;/li&gt;
+&lt;li&gt;X-men&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
 &lt;p&gt;Chargé de cours : Nicolas Jouvin&lt;/p&gt;
 &lt;p&gt;Ce module a pour but de vous confronter à un problème d&amp;rsquo;apprentissage concret avec toutes les dimensions que cela contient&lt;/p&gt;
 &lt;ul&gt;
@@ -43,8 +73,12 @@
 &lt;p&gt;Chargé de cours : Nicolas Jouvin &lt;br&gt;
 Horaires : Mercredi 8h30-11h45.&lt;/p&gt;
 &lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Exam dates and room:&lt;/strong&gt; TBA&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Autorized documents&lt;/strong&gt;: TBA (for now, consider it None)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exam dates and room:&lt;/strong&gt; on Friday the 12th of January, 14h - 17h15.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;on paper&lt;/li&gt;
+&lt;li&gt;no documents or machines allowed&lt;/li&gt;
+&lt;li&gt;annal from last year &lt;a href=&#34;/docs/unsupervised_learning/exam/examen2022.pdf&#34;&gt;download here&lt;/a&gt; (careful: I was not in charge of the course)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Up-to-date version of the slides: &lt;a href=&#34;/docs/unsupervised_learning/slides_cours_unsupervised.pdf&#34;&gt;here&lt;/a&gt; (there will be frequent updates, keep up to date !)&lt;/p&gt;
 &lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
 &lt;ol&gt;
