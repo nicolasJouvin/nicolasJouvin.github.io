@@ -1,0 +1,63 @@
+---
+title: Unsupervised learning
+summary: Master 2 data science(Evry)
+authors:
+- 
+tags:
+- M2
+date: "2023-09-01"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+featured: yes
+image:
+  focal_point: Smart 
+  preview_only: true
+---
+
+# Description
+Chargé de cours : Nicolas Jouvin \
+Horaires : Mercredi 8h30-11h45.
+
+
+# News
+
+**Exam dates and room:** on wednesday the 8th of January 2025, 8h30-11h45.
+  - on paper
+  - no documents or machines allowed
+  - annal from last year [download here](/docs/unsupervised_learning/exam/examen2022.pdf) (careful: I was not in charge of the course)
+
+--- 
+
+Up-to-date version of the slides: [here](/docs/unsupervised_learning/slides_cours_unsupervised.pdf) (there will be frequent updates, keep up to date !)
+
+# Outline
+
+ 1. Introduction to Bayesian statistics
+ 2. Clustering with finite mixture models
+ 3. The EM algorithm
+ 4. Hidden Markov Models
+ 5. Stochastic Block Model and introduction to variational inference
+
+# Séances 
+
+* **1ère séance :** 3h class + [Dowload TD1 exercice sheet](/docs/unsupervised_learning/TD1_bayes/bayesian_exercise_sheet.pdf) + [Bonus practical session](/docs/unsupervised_learning/TD1_bayes/TP_bayes_estimator_enonce.pdf)
+
+ * **2eme séance :** Expectation-Maximization algorithm. [Download the TD2 exercise sheet](/docs/unsupervised_learning/TD2_GMM/TP_GMM_EM.pdf).
+ * **3ème séance :**  Introduction to HMMs + [Bonus practical session on discrete Markov chains](/docs/unsupervised_learning/TD_chaine_markov/TP_bonus_chaine_markov_enonce.pdf)
+ * **4ème séance :**  Inference in HMMs : Forward-Backward & EM (aka Baum-Welch)
+ * **5ème séance :**  Viterbi algorithm and introduction to SBM + [Practical session on HMMs: EM and Viterbi](/docs/unsupervised_learning/TD3_HMM/TD_HMM_enonce.pdf)
+ * **6ème séance :**  Variational inference & illustration with SBM
+
+
+# Corrections
+
+
+# Ressources en ligne
+
+
+
+
+
+
+
