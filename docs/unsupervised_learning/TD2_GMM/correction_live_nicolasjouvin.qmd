@@ -1,0 +1,67 @@
+---
+title: "Correction live du TP GMM"
+author: "Nicolas Jouvin"
+format: html
+editor: visual
+---
+
+# Exercise (au tableau)
+
+# Programmation part
+
+```{r creation-des-donnees}
+data<-data.frame(Var=c(-3.3,-4.4,-1.9,3.3,2.5,3.2,0.3,0.1,-0.1,-0.5),
+partition1=c(1,1,1,2,2,2,2,2,1,1),
+partition2=c(1,3,2,1,3,2,1,3,2,1)
+)
+```
+
+```{r plot-data}
+library(ggplot2)
+
+plot_data <- function(x, partition) {
+# function that plot the 1D data vector x with color
+# according to an argument partition
+#
+# return: a ggplot graph
+df = data.frame(x = x, groupe = factor(partition))
+gg = ggplot(df) + geom_point(aes(x=x, y = NA, color=groupe))
+return(gg)
+}
+
+gg_part1 = plot_data(data$Var, data$partition1)
+gg_part2 = plot_data(data$Var, data$partition2)
+print(gg_part2)
+```
+
+```{r init-EM}
+initEM = function(x, partition) {
+  #' Initialize the parameters of the mixture according
+  #' to the `partition` argument.
+  #' The returned parameters are the maxima of the complete
+  #'  log-likelihood (see Q2 of exercise 1).
+  params = list(pi=NULL, theta=list(mu=NULL, sigma2=NULL))
+  
+  K = length(unique(partition))
+  n = length(partition)
+  nks = table(partition)
+  params$pi =  nks / n
+  
+  # Equivalent sans `table()`
+  params$pi = rep(0, K)
+  params$mu = rep(0, K)
+  params$sigma2 = rep(0, K)
+  
+  unique_val_partition = unique(partition)
+  for (k in 1:K) {
+    val_k = unique_val_partition[k]
+    params$pi[k] = sum(partition == val_k) / n
+    params$theta$mu[k] = NULL # TODO
+    params$theta$sigma2[k] = NULL # TODO
+  }
+  
+  return(params)
+}
+
+initEM(x = data$Var, partition = data$partition1)
+```
