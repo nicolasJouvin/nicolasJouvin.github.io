@@ -49,19 +49,141 @@ initEM = function(x, partition) {
   
   # Equivalent sans `table()`
   params$pi = rep(0, K)
-  params$mu = rep(0, K)
-  params$sigma2 = rep(0, K)
+  params$theta$mu = rep(0, K)
+  params$theta$sigma2 = rep(0, K)
   
   unique_val_partition = unique(partition)
   for (k in 1:K) {
     val_k = unique_val_partition[k]
     params$pi[k] = sum(partition == val_k) / n
-    params$theta$mu[k] = NULL # TODO
-    params$theta$sigma2[k] = NULL # TODO
+    params$theta$mu[k] = mean(x[partition == val_k]) 
+    params$theta$sigma2[k] = ((nks[k] - 1) / nks[k]) * var(x[partition == val_k]) 
   }
   
   return(params)
 }
 
-initEM(x = data$Var, partition = data$partition1)
+init_param = initEM(x = data$Var, partition = data$partition1)
+init_param
 ```
+## Question 2
+```{r log-sum-exp}
+logsumexp = function(y) {
+  #' calcule log(sum(exp(y))) de manière stable
+  #' 
+  
+  m = max(y)
+  return(m + log(sum(exp(y - m))))
+}
+
+y = c(-1000, -1000, - 1000)
+cat("Naive", log(sum(exp(y))), "\n")
+cat("Stable", logsumexp(y))
+```
+
+
+
+```{r question-2}
+Estep = function(x, params) {
+  #' Fonction qui calcule logtau_{ik} pour tout (i, k)
+  #' x : observations (vecteur de taille n)
+  #' params : liste avec $pi, $theta = list(mu, sigma2)
+   
+  n = length(x)
+  K = length(params$pi)
+  logtau = matrix(0, n, K)
+  
+  for (i in 1:n) {
+    for (k in 1:K) {
+      logtau[i ,k] = log(params$pi[k]) + dnorm(x[i], mean = params$theta$mu[k], sd=sqrt(params$theta$sigma2[k]), log = TRUE)
+    }
+    
+    # normalization_cte = log(sum(exp(logtau[i,]))) # naive (bad)
+    # log-sum-exp trick
+    max_i = max(logtau[i,])
+    normalization_cte = max_i + log(sum(exp(logtau[i,] - max_i))) # stable (good)
+    
+    # normalize row i (in log-space)
+    logtau[i,] = logtau[i,] - normalization_cte
+  }
+  
+  # alternative
+  for (k in 1:K) {
+    logtau[,k] = log(params$pi[k]) + 
+      dnorm(x, 
+            mean = params$theta$mu[k], 
+            sd=sqrt(params$theta$sigma2[k]), 
+            log = TRUE
+            )
+  }
+  norm_cte_vector = apply(logtau, 1, logsumexp) 
+  logtau = logtau - norm_cte_vector
+  
+  return (logtau)
+}
+
+logtau = Estep(x = data$Var, init_param)
+logtau
+```
+
+```{r}
+tau = exp(logtau)
+rowSums(tau)
+```
+
+```{r}
+compute_PI = function(tau) {
+  ntilde = colSums(tau)
+  n = dim(tau)[1]
+  return(ntilde / n)
+}
+
+compute_PI(tau) 
+```
+
+```{r}
+compute_mu = function(tau, x) {
+  ntilde = colSums(tau)
+  K = dim(tau)[2]
+  mu = rep(0, K)
+  for (k in 1:K) {
+    mu[k] = sum(tau[,k] * x) / ntilde[k]
+  }
+  
+  # colSums(tau * x) / ntilde
+  return(mu)
+}
+
+mu = compute_mu(tau, x=data$Var)
+init_param$theta$mu
+```
+```{r}
+compute_sigma2 = function(tau, mu, x) {
+  ntilde = colSums(tau)
+  K = ncol(tau)
+  sigma2 = rep(0, K)
+  for (k in 1:K) {
+    centered_x_squared = (x - mu[k])^2
+    sigma2[k] = sum(tau[,k] * centered_x_squared) / ntilde[k]
+  }
+  
+  return(sigma2)
+}
+
+compute_sigma2(tau, mu, x=data$Var)
+init_param$theta$sigma2
+```
+```{r Mstep}
+Mstep = function(x, tau) {
+  
+  params = list(pi=NULL, theta=list(mu=NULL, sigma2=NULL))
+  params$pi = compute_PI(tau)
+  params$theta$mu = compute_mu(tau, x)
+  params$theta$sigma2 = compute_sigma2(tau, params$theta$mu, x)
+  
+  return(params)
+}
+
+Mstep(x=data$Var, tau)
+```
+
