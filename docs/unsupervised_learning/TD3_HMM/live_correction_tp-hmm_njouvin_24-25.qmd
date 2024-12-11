@@ -5,6 +5,11 @@ format: html
 editor: visual
 ---
 
+```{r}
+set.seed(42)
+```
+
+
 ## Simulation d'un hmm
 ```{r}
 SimuHMMdisc = function(n, param) {
@@ -74,6 +79,7 @@ forward = function(x, i, param) {
   for (j in 2:i) {
     log_alpha[j,] = log(param$B[, x[j]] + epsilon) 
     temp = rep(0, K)
+    
     for (k in 1:K) {
     
       # option 1
@@ -93,7 +99,124 @@ forward = function(x, i, param) {
   return(log_alpha[i,])
 }
 
-forward(simu$X, i=899, param)
+forward(simu$X, i=10, param)
+
+
 ```
 
+
+```{r}
+HMMloglik = function(x, param) {
+  n = length(x)
+  alpha_n = forward(x, i=n, param = param) 
+  loglik = logsumexp(alpha_n)
+  return(loglik)
+}
+
+HMMloglik(simu$X, param)
+```
+## Baum-Welsch
+
+```{r forward-estep}
+
+forward_estep = function(x, param) {
+  K = ncol(param$A)
+  n = length(x)
+  log_alpha = matrix(0, n, K)
+  
+  # init
+  log_alpha[1,] = log(param$pi) + log(param$B[, x[1]] + epsilon)
+  
+  # recursion
+  for (j in 2:n) {
+    log_alpha[j,] = log(param$B[, x[j]] + epsilon) 
+    temp = rep(0, K)
+    
+    for (k in 1:K) {
+    
+      # option 1
+      # y = log(A[,k]) + log_alpha[j-1,] # vecteur
+      # option 2
+      y = rep(0, K)
+      for(l in 1:K) {
+        y[l] = log(param$A[l, k] + epsilon) + log_alpha[j-1, l]
+      }
+      temp[k] = logsumexp(y) 
+      # try with log(sum(exp(y))) : if i is large you should experience -Inf
+      # bad temp[k] = log(sum(exp(y)))
+    }
+    log_alpha[j,] = log_alpha[j,] + temp
+  }
+  return(t(log_alpha)) # return K x n
+}
+
+
+```
+
+
+```{r backward}
+backward = function(x, param) {
+  K = ncol(param$A)
+  n = length(x)
+  log_beta = matrix(0, n, K)
+  log_beta[n,] = 1
+  
+  for (j in (n-1):1) {
+    
+    for (k in 1:K) {
+      y = log(param$A[k,]) + log(param$B[, x[j+1]] + epsilon) + log_beta[j+1,] 
+      log_beta[j, k] = logsumexp(y)
+    }
+  }
+  return(t(log_beta)) # return K x n 
+}
+
+logbeta = backward(simu$X, param)
+dim(logbeta)
+logbeta[,10]
+```
+
+```{r }
+logalpha = forward_estep(simu$X, param)
+logbeta = backward(simu$X, param)
+
+apply(logalpha + logbeta, 2, logsumexp)
+HMMloglik(simu$X, param)
+# colSums(exp(logalpha) * exp(logbeta))
+```
+
+```{r}
+estep = function(x, param) {
+  n = length(x)
+  K = ncol(param$A)
+  logtau = matrix(K, n)
+  logxi = matrix(K, K, n-1)
+  
+  logalpha = forward_estep(x, param)
+  logbeta = backward(x, param)
+  
+  olg_loglik = logsumexp(logalpha[,n])
+  
+  # OPtion 1
+  # for (i in 1:n) {
+  #   logtau[,i] = logalpha[,i] + logbeta[,i] 
+  #   logtau[,i] = logtau[,i] - logsumexp(logtau[,i])
+  # }
+  
+  # Option 2
+  logtau = logalpha + logbeta 
+  logtau = logtau - old_loglik # apply(logtau, 2, logsumexp)
+  
+  
+  for (i in 1:(n-1)) {
+    for (k in 1:K) {
+      for (l in 1:K) {
+        logxi[k, l, i] = # TODO
+      }
+    }
+    logxi[,,i] = logxi[,,i] - old_loglik
+  }
+ 
+}
+```
 
