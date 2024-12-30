@@ -41,21 +41,25 @@
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/teaching/unsupervised_learning/</guid>
       <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
-&lt;p&gt;Chargé de cours : Nicolas Jouvin &lt;br&gt;
+&lt;p&gt;Chargé de cours : Nicolas Jouvin
 Horaires : Mercredi 8h30-11h45.&lt;/p&gt;
-&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;-slides&#34;&gt;# Slides&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;/docs/unsupervised_learning/slides_cours_unsupervised.pdf&#34;&gt;Up-to-date version of the slides: here&lt;/a&gt; (there will be frequent updates, keep up to date !)&lt;/p&gt;
-&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;-news&#34;&gt;# News&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Exam: mercredi 8 janvier - 8h30-11h30 (Salle à vérifier sur Hyperplanning)&lt;/li&gt;
-&lt;li&gt;Devoir maison facultatif :&lt;/li&gt;
+&lt;li&gt;Devoir maison facultatif :
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/docs/unsupervised_learning/homework/homework_2024.pdf&#34;&gt;télécharger l&amp;rsquo;énoncé ici&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/docs/unsupervised_learning/homework/homework_2024.pdf&#34;&gt;correction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Annales :&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/docs/unsupervised_learning/homework/homework_2024_correction.pdf&#34;&gt;correction&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Annales :
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/docs/unsupervised_learning/exam/exam2023-2024.pdf&#34;&gt;Sujet 2023&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/docs/unsupervised_learning/exam/examen2022.pdf&#34;&gt;Sujet 2022&lt;/a&gt; (attention, je n&amp;rsquo;étais pas chargé du cours cette année là)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;
 &lt;hr&gt;
@@ -72,8 +76,8 @@ Horaires : Mercredi 8h30-11h45.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;1ère séance :&lt;/strong&gt; 3h class + &lt;a href=&#34;/docs/unsupervised_learning/TD1_bayes/bayesian_exercise_sheet.pdf&#34;&gt;Dowload TD1 exercice sheet&lt;/a&gt; + &lt;a href=&#34;/docs/unsupervised_learning/TD1_bayes/TP_bayes_estimator_enonce.pdf&#34;&gt;Bonus practical session&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Séance 2 &amp;amp; 3:&lt;/strong&gt; Mixture models &amp;amp; Expectation-Maximization algorithm. &lt;a href=&#34;/docs/unsupervised_learning/TD2_GMM/TP_GMM_EM.pdf&#34;&gt;Download the TD2 exercise sheet&lt;/a&gt; + &lt;a href=&#34;/docs/unsupervised_learning/TD2_GMM/correction_live_nicolasjouvin.qmd&#34;&gt;live correction&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;4ème séance :&lt;/strong&gt; Introduction to HMMs + &lt;a href=&#34;/docs/unsupervised_learning/TD_chaine_markov/TP_bonus_chaine_markov_enonce.pdf&#34;&gt;Bonus practical session on discrete Markov chains&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;5ème séance:&lt;/strong&gt;  EM algorithm for HMMs (a.k.a. Baum-Welsch) + &lt;a href=&#34;/docs/unsupervised_learning/TD3_HMM/TD_HMM_enonce.pdf&#34;&gt;Practical session on HMMs: EM and Viterbi&lt;/a&gt; + &lt;a href=&#34;/docs/unsupervised_learning/TD3_HMM/live_correction_tp-hmm_njouvin_24-25.qmd&#34;&gt;live_correction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;6ème séance:&lt;/strong&gt;  The stochastic block model &amp;amp; introduction to variational inference&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5ème séance:&lt;/strong&gt; EM algorithm for HMMs (a.k.a. Baum-Welsch) + &lt;a href=&#34;/docs/unsupervised_learning/TD3_HMM/TD_HMM_enonce.pdf&#34;&gt;Practical session on HMMs: EM and Viterbi&lt;/a&gt; + &lt;a href=&#34;/docs/unsupervised_learning/TD3_HMM/live_correction_tp-hmm_njouvin_24-25.qmd&#34;&gt;live_correction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;6ème séance:&lt;/strong&gt; The stochastic block model &amp;amp; introduction to variational inference&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;corrections&#34;&gt;Corrections&lt;/h1&gt;
 &lt;ul&gt;
@@ -87,8 +91,7 @@ Horaires : Mercredi 8h30-11h45.&lt;/p&gt;
 &lt;p&gt;Séance 5 : TP HMM &lt;a href=&#34;/docs/unsupervised_learning/TD3_HMM/TD_HMM_correction_avec_baum_welch.pdf&#34;&gt;télécharger le Rmarkdown de correction&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;ressources-en-ligne&#34;&gt;Ressources en ligne&lt;/h1&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;-ressources-en-ligne&#34;&gt;# Ressources en ligne&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www6.inrae.fr/mia-paris/content/download/5122/47577/version/1/file/Part2-Main-MSV2101.pdf&#34;&gt;Stéphane Robin&amp;rsquo;s Lecture&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sophiedonnet.github.io/LVMclass.html&#34;&gt;Sophie Donnet&amp;rsquo;s Lecture&lt;/a&gt;&lt;/li&gt;
