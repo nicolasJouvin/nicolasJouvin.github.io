@@ -5,7 +5,7 @@
     <link>/tags/m2/</link>
       <atom:link href="/tags/m2/index.xml" rel="self" type="application/rss+xml" />
     <description>M2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>M2</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Data Camp</title>
       <link>/teaching/datacamp/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/teaching/datacamp/</guid>
       <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
 &lt;hr&gt;
@@ -31,7 +31,7 @@
 &lt;/ul&gt;
 &lt;p&gt;Nous passerons par la plateforme &lt;a href=&#34;https://ramp.studio/&#34;&gt;RAMP.studio&lt;/a&gt; developée par l&amp;rsquo;Université Paris-Saclay.&lt;/p&gt;
 &lt;h1 id=&#34;edition-2024-2025&#34;&gt;Edition 2024-2025&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;Télécharger les slides de présentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/docs/DataCamp/data_camp2025_presentation.pdf&#34;&gt;Télécharger les slides de présentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
